@@ -9,14 +9,9 @@ from xml.dom import minidom
 # CONFIGURATION
 # -----------------------------
 FEEDS = [
-    "https://theconversation.com/us/topics/artificial-intelligence-ai-90/articles.atom",  # মতামত | দৈনিক নয়া দিগন্ত
-    "https://theconversation.com/us/topics/psychology-28/articles.atom",  # চিন্তা - দেশ রূপান্তর
-    "https://www.psychologytoday.com/intl/front/feed",  # Jugantor Editorials
-    "https://www.popsci.com/rss.xml",  # Bonikbarta Editorial
-    "https://feeds.newscientist.com/science-news",  # BD Pratidin – Open Air Theater
-    "https://www.scientificamerican.com/platform/syndication/rss/",  # কলাম - Bangla Tribune
-    "https://politepol.com/fd/1yW2qEQ2SF8T.xml",  # Opinion News: Dhaka Post
-    "https://theconversation.com/global/topics/climate-change-27/articles.atom",  # Editorial | Prothom Alo
+    "http://www.physorg.com/rss-feed/space-news/",  # মতামত | দৈনিক নয়া দিগন্ত
+    "https://phys.org/rss-feed/earth-news/",  # চিন্তা - দেশ রূপান্তর
+    "https://feeds.newscientist.com/science-news",  # Jugantor Editorials
 ]
 
 MASTER_FILE = "feed_master.xml"
