@@ -22,6 +22,9 @@ LAST_SEEN_FILE = "last_seen.json"
 MAX_ITEMS = 500
 BD_OFFSET = 6  # Bangladesh UTC offset
 
+# Register namespace once at module level
+ET.register_namespace('media', 'http://search.yahoo.com/mrss/')
+
 # -----------------------------
 # UTILITIES
 # -----------------------------
@@ -41,25 +44,25 @@ def extract_image(entry):
         for media in entry.media_content:
             if 'url' in media:
                 return media['url']
-    
+
     # Try media:thumbnail
     if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
         for thumb in entry.media_thumbnail:
             if 'url' in thumb:
                 return thumb['url']
-    
+
     # Try enclosure
     if hasattr(entry, 'enclosures') and entry.enclosures:
         for enc in entry.enclosures:
             if enc.get('type', '').startswith('image/'):
                 return enc.get('url', '')
-    
+
     # Try links with rel="enclosure"
     if hasattr(entry, 'links'):
         for link in entry.links:
             if link.get('rel') == 'enclosure' and link.get('type', '').startswith('image/'):
                 return link.get('href', '')
-    
+
     # Try parsing HTML content for first image
     content = getattr(entry, 'summary', '') or getattr(entry, 'content', [{}])[0].get('value', '')
     if content:
@@ -67,7 +70,7 @@ def extract_image(entry):
         img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content, re.IGNORECASE)
         if img_match:
             return img_match.group(1)
-    
+
     return None
 
 def load_existing(file_path):
@@ -84,7 +87,7 @@ def load_existing(file_path):
             desc = item.find("description").text or ""
             pubDate = item.find("pubDate").text or ""
             pubDate_dt = datetime.strptime(pubDate, "%a, %d %b %Y %H:%M:%S %z")
-            
+
             # Extract image
             image = None
             img_elem = item.find("{http://search.yahoo.com/mrss/}thumbnail")
@@ -94,7 +97,7 @@ def load_existing(file_path):
                 enc_elem = item.find("enclosure")
                 if enc_elem is not None and enc_elem.get("type", "").startswith("image/"):
                     image = enc_elem.get("url")
-            
+
             items.append({
                 "title": title,
                 "link": link,
@@ -108,13 +111,11 @@ def load_existing(file_path):
 
 def write_rss(items, file_path, title="Feed"):
     """Write items to RSS XML with image support"""
-    # Register media namespace
-    ET.register_namespace('media', 'http://search.yahoo.com/mrss/')
+    # Create RSS element with version only
+    rss = ET.Element("rss", version="2.0")
+    # Add namespace as separate attribute
+    rss.set("{http://www.w3.org/2000/xmlns/}media", "http://search.yahoo.com/mrss/")
     
-    rss = ET.Element("rss", {
-        "version": "2.0",
-        "xmlns:media": "http://search.yahoo.com/mrss/"
-    })
     channel = ET.SubElement(rss, "channel")
     ET.SubElement(channel, "title").text = title
     ET.SubElement(channel, "link").text = "https://evilgodfahim.github.io/"
@@ -126,16 +127,13 @@ def write_rss(items, file_path, title="Feed"):
         ET.SubElement(it, "link").text = item["link"]
         ET.SubElement(it, "description").text = item["description"]
         ET.SubElement(it, "pubDate").text = item["pubDate"].strftime("%a, %d %b %Y %H:%M:%S %z")
-        
+
         # Add image if available
         if item.get("image"):
             # Use media:thumbnail for better RSS reader compatibility
-            ET.SubElement(it, "{http://search.yahoo.com/mrss/}thumbnail", {"url": item["image"]})
+            ET.SubElement(it, "{http://search.yahoo.com/mrss/}thumbnail", url=item["image"])
             # Also add as enclosure for wider compatibility
-            ET.SubElement(it, "enclosure", {
-                "url": item["image"],
-                "type": "image/jpeg"
-            })
+            ET.SubElement(it, "enclosure", url=item["image"], type="image/jpeg")
 
     # Pretty print
     xml_str = minidom.parseString(ET.tostring(rss)).toprettyxml(indent="  ")
