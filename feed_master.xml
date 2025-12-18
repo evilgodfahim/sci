@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Master Feed (Updated every 30 mins)</title>
     <link>https://evilgodfahim.github.io/</link>
