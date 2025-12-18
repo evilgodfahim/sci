@@ -4,14 +4,15 @@ import sys
 from datetime import datetime, timezone, timedelta
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
+import json
 
 # -----------------------------
 # CONFIGURATION
 # -----------------------------
 FEEDS = [
-    "http://www.physorg.com/rss-feed/space-news/",  # মতামত | দৈনিক নয়া দিগন্ত
-    "https://phys.org/rss-feed/earth-news/",  # চিন্তা - দেশ রূপান্তর
-    "https://feeds.newscientist.com/science-news",  # Jugantor Editorials
+    "http://www.physorg.com/rss-feed/space-news/",
+    "https://phys.org/rss-feed/earth-news/",
+    "https://feeds.newscientist.com/science-news",
 ]
 
 MASTER_FILE = "feed_master.xml"
@@ -20,8 +21,6 @@ LAST_SEEN_FILE = "last_seen.json"
 
 MAX_ITEMS = 500
 BD_OFFSET = 6  # Bangladesh UTC offset
-
-import json
 
 # -----------------------------
 # UTILITIES
@@ -34,6 +33,42 @@ def parse_date(entry):
         if t:
             return datetime(*t[:6], tzinfo=timezone.utc)
     return datetime.now(timezone.utc)
+
+def extract_image(entry):
+    """Extract image URL from feed entry"""
+    # Try media:content
+    if hasattr(entry, 'media_content') and entry.media_content:
+        for media in entry.media_content:
+            if 'url' in media:
+                return media['url']
+    
+    # Try media:thumbnail
+    if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
+        for thumb in entry.media_thumbnail:
+            if 'url' in thumb:
+                return thumb['url']
+    
+    # Try enclosure
+    if hasattr(entry, 'enclosures') and entry.enclosures:
+        for enc in entry.enclosures:
+            if enc.get('type', '').startswith('image/'):
+                return enc.get('url', '')
+    
+    # Try links with rel="enclosure"
+    if hasattr(entry, 'links'):
+        for link in entry.links:
+            if link.get('rel') == 'enclosure' and link.get('type', '').startswith('image/'):
+                return link.get('href', '')
+    
+    # Try parsing HTML content for first image
+    content = getattr(entry, 'summary', '') or getattr(entry, 'content', [{}])[0].get('value', '')
+    if content:
+        import re
+        img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content, re.IGNORECASE)
+        if img_match:
+            return img_match.group(1)
+    
+    return None
 
 def load_existing(file_path):
     """Load existing XML items"""
@@ -49,14 +84,37 @@ def load_existing(file_path):
             desc = item.find("description").text or ""
             pubDate = item.find("pubDate").text or ""
             pubDate_dt = datetime.strptime(pubDate, "%a, %d %b %Y %H:%M:%S %z")
-            items.append({"title": title, "link": link, "description": desc, "pubDate": pubDate_dt})
+            
+            # Extract image
+            image = None
+            img_elem = item.find("{http://search.yahoo.com/mrss/}thumbnail")
+            if img_elem is not None:
+                image = img_elem.get("url")
+            else:
+                enc_elem = item.find("enclosure")
+                if enc_elem is not None and enc_elem.get("type", "").startswith("image/"):
+                    image = enc_elem.get("url")
+            
+            items.append({
+                "title": title,
+                "link": link,
+                "description": desc,
+                "pubDate": pubDate_dt,
+                "image": image
+            })
         except:
             continue
     return items
 
 def write_rss(items, file_path, title="Feed"):
-    """Write items to RSS XML"""
-    rss = ET.Element("rss", version="2.0")
+    """Write items to RSS XML with image support"""
+    # Register media namespace
+    ET.register_namespace('media', 'http://search.yahoo.com/mrss/')
+    
+    rss = ET.Element("rss", {
+        "version": "2.0",
+        "xmlns:media": "http://search.yahoo.com/mrss/"
+    })
     channel = ET.SubElement(rss, "channel")
     ET.SubElement(channel, "title").text = title
     ET.SubElement(channel, "link").text = "https://evilgodfahim.github.io/"
@@ -68,6 +126,16 @@ def write_rss(items, file_path, title="Feed"):
         ET.SubElement(it, "link").text = item["link"]
         ET.SubElement(it, "description").text = item["description"]
         ET.SubElement(it, "pubDate").text = item["pubDate"].strftime("%a, %d %b %Y %H:%M:%S %z")
+        
+        # Add image if available
+        if item.get("image"):
+            # Use media:thumbnail for better RSS reader compatibility
+            ET.SubElement(it, "{http://search.yahoo.com/mrss/}thumbnail", {"url": item["image"]})
+            # Also add as enclosure for wider compatibility
+            ET.SubElement(it, "enclosure", {
+                "url": item["image"],
+                "type": "image/jpeg"
+            })
 
     # Pretty print
     xml_str = minidom.parseString(ET.tostring(rss)).toprettyxml(indent="  ")
@@ -89,12 +157,16 @@ def update_master():
             for entry in feed.entries:
                 link = getattr(entry, "link", "")
                 if link and link not in existing_links:
+                    image = extract_image(entry)
                     new_items.append({
                         "title": getattr(entry, "title", "No Title"),
                         "link": link,
                         "description": getattr(entry, "summary", ""),
-                        "pubDate": parse_date(entry)
+                        "pubDate": parse_date(entry),
+                        "image": image
                     })
+                    if image:
+                        print(f"  📸 Found image: {image[:60]}...")
         except Exception as e:
             print(f"Error parsing {url}: {e}")
 
@@ -108,11 +180,13 @@ def update_master():
             "title": "No articles yet",
             "link": "https://evilgodfahim.github.io/",
             "description": "Master feed will populate after first successful fetch.",
-            "pubDate": datetime.now(timezone.utc)
+            "pubDate": datetime.now(timezone.utc),
+            "image": None
         }]
 
     write_rss(all_items, MASTER_FILE, title="Master Feed (Updated every 30 mins)")
     print(f"✅ feed_master.xml updated with {len(all_items)} items")
+    print(f"   {sum(1 for i in all_items if i.get('image'))} items have images")
 
 # -----------------------------
 # DAILY FEED UPDATE
@@ -146,7 +220,8 @@ def update_daily():
             "title": "No new articles today",
             "link": "https://evilgodfahim.github.io/",
             "description": "Daily feed will populate after first articles appear.",
-            "pubDate": datetime.now(timezone.utc)
+            "pubDate": datetime.now(timezone.utc),
+            "image": None
         }]
 
     write_rss(new_items, DAILY_FILE, title="Daily Feed (Updated 9 AM BD)")
@@ -157,6 +232,7 @@ def update_daily():
         json.dump({"last_seen": last_dt.isoformat()}, f)
 
     print(f"✅ daily_feed.xml updated with {len(new_items)} items")
+    print(f"   {sum(1 for i in new_items if i.get('image'))} items have images")
 
 # -----------------------------
 # MAIN
