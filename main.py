@@ -19,8 +19,8 @@ FEEDS = [
     "https://politepaul.com/fd/kELFFnMAfctc.xml",
     "https://politepaul.com/fd/LmBK70i6qv46.xml",
     "https://theconversation.com/global/topics/climate-change-27/articles.atom",
-
-"https://feeds.arstechnica.com/arstechnica/index", "https://www.technologyreview.com/topnews.rss",
+"https://feeds.arstechnica.com/arstechnica/index",
+ "https://www.technologyreview.com/topnews.rss",
 "https://therecord.media/feed/"
 ]
 
