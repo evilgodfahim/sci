@@ -13,6 +13,14 @@
       <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2025/einstein-probe-detects-3.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025</title>
+      <link>https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/</link>
+      <description>The past year has seen plenty of hacks and outages. Here are the ones topping the list.</description>
+      <pubDate>Wed, 31 Dec 2025 13:15:40 +0000</pubDate>
+      <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2025/10/signal-quantum-security-1152x648.jpg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/10/signal-quantum-security-1152x648.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Wind-battered Lick Observatory rushes to shield historic telescope after dome damage</title>
       <link>https://phys.org/news/2025-12-battered-observatory-shield-historic-telescope.html</link>
       <description>Winds exceeding 110 mph that tore across the top of Mount Hamilton early Christmas morning blasted a massive steel protective door off the iconic white dome at Lick Observatory.</description>
@@ -33,6 +41,14 @@
       <pubDate>Wed, 31 Dec 2025 12:00:31 +0000</pubDate>
       <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2025/12/ai-down-to-earth-1152x648.jpg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/12/ai-down-to-earth-1152x648.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Three supermassive black holes have been spotted merging into one</title>
+      <link>https://www.newscientist.com/article/2509529-three-supermassive-black-holes-have-been-spotted-merging-into-one/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</link>
+      <description>Astronomers have found a system of three supermassive black holes, all actively feeding, that appear to be combining into a single system – a rare event that will help elucidate the physics of complex mergers</description>
+      <pubDate>Wed, 31 Dec 2025 12:00:27 +0000</pubDate>
+      <media:thumbnail url="https://images.newscientist.com/wp-content/uploads/2025/12/22112252/SEI_278767490.jpg" />
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2025/12/22112252/SEI_278767490.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Can beavers help heal burn scars after wildfires? Researchers build their own dams to find out</title>
@@ -285,6 +301,14 @@
       <pubDate>Tue, 30 Dec 2025 12:37:38 +0000</pubDate>
       <media:thumbnail url="https://scx1.b-cdn.net/csz/news/tmb/2025/climate-policies-can-b.jpg" />
       <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2025/climate-policies-can-b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>We&apos;ll learn about LSD&apos;s potential for treating anxiety in 2026</title>
+      <link>https://www.newscientist.com/article/2508723-well-learn-about-lsds-potential-for-treating-anxiety-in-2026/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</link>
+      <description>Two later-stage trials investigating LSD for treating anxiety are due to conclude in 2026, which could lead to the drug being approved for the common mental health condition</description>
+      <pubDate>Tue, 30 Dec 2025 11:00:46 +0000</pubDate>
+      <media:thumbnail url="https://images.newscientist.com/wp-content/uploads/2025/12/15154424/SEI_277396358.jpg" />
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2025/12/15154424/SEI_277396358.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>A controversial experiment threatened to kill the multiverse in 2025</title>
@@ -3556,24 +3580,6 @@
       <link>https://phys.org/news/2025-12-musk-ipo-spacex.html</link>
       <description>Elon Musk has signaled plans to soon seek a public stock listing of SpaceX, confirming a report that links the strategic shift to a near-term need for more capital.</description>
       <pubDate>Fri, 12 Dec 2025 09:50:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qubits break quantum limit to encode information for longer</title>
-      <link>https://www.newscientist.com/article/2507777-qubits-break-quantum-limit-to-encode-information-for-longer/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</link>
-      <description>Controlling qubits with quantum superpositions allows them to dramatically violate a fundamental limit and encode information for about five times longer during quantum computations</description>
-      <pubDate>Fri, 12 Dec 2025 08:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>New antibiotic could stave off drug-resistant gonorrhoea</title>
-      <link>https://www.newscientist.com/article/2508376-new-antibiotic-could-stave-off-drug-resistant-gonorrhoea/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</link>
-      <description>Neisseria gonorrhoeae, the microbe responsible for gonorrhoea, is developing resistance to most antibiotics, which means we need new drugs to treat the condition. An antibiotic called zoliflodacin might be part of a solution</description>
-      <pubDate>Thu, 11 Dec 2025 23:30:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parker Solar Probe spies solar wind &apos;U-turn&apos;</title>
-      <link>https://phys.org/news/2025-12-parker-solar-probe-spies.html</link>
-      <description>Images captured by NASA&apos;s Parker Solar Probe as the spacecraft made its record-breaking closest approach to the sun in December 2024 have now revealed new details about how solar magnetic fields responsible for space weather escape from the sun—and how sometimes they don&apos;t.</description>
-      <pubDate>Thu, 11 Dec 2025 21:54:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
