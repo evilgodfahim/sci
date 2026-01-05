@@ -53,6 +53,14 @@
       <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/ultramassive-black-hol.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Google TV’s big Gemini update adds image and video generation, voice control for settings</title>
+      <link>https://arstechnica.com/google/2026/01/gemini-expands-on-google-tv-bringing-nano-banana-and-veo-models-to-your-tv/</link>
+      <description>Google TV will let you generate and watch AI content on the big screen.</description>
+      <pubDate>Mon, 05 Jan 2026 17:51:36 +0000</pubDate>
+      <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/01/We_previewed_new_Gemini_for_Google_TV-1152x648.png" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/01/We_previewed_new_Gemini_for_Google_TV-1152x648.png" type="image/jpeg" />
+    </item>
+    <item>
       <title>How a move to the shallows 300,000 years ago drove a phytoplankton bloom</title>
       <link>https://phys.org/news/2026-01-shallows-years-drove-phytoplankton-bloom.html</link>
       <description>Single-celled algae in the ocean known as coccolithophores play an important role in the marine carbon cycle when they take up bicarbonate from seawater to build their shells. Coccolithophore numbers have been increasing globally in recent years, meaning their influence is growing, even as scientists still don&apos;t fully understand the factors driving their explosive growth. One explanation could be changes to the alkalinity of ocean water, specifically, greater amounts of bicarbonate available for the tiny creatures to use.</description>
@@ -75,6 +83,14 @@
       <pubDate>Mon, 05 Jan 2026 17:43:50 +0000</pubDate>
       <media:thumbnail url="https://scx1.b-cdn.net/csz/news/tmb/2026/new-x-ray-space-telesc.jpg" />
       <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/new-x-ray-space-telesc.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>X blames users for Grok-generated CSAM; no fixes announced</title>
+      <link>https://arstechnica.com/tech-policy/2026/01/x-blames-users-for-grok-generated-csam-no-fixes-announced/</link>
+      <description>Critics call for App Store ban after Grok sexualized images of minors.</description>
+      <pubDate>Mon, 05 Jan 2026 17:42:45 +0000</pubDate>
+      <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2233914159-1024x648.jpg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2233914159-1024x648.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>The ambitious plan to spot habitable moons around giant planets</title>
@@ -122,6 +138,22 @@
       <pubDate>Mon, 05 Jan 2026 16:20:26 +0000</pubDate>
       <media:thumbnail url="https://scx1.b-cdn.net/csz/news/tmb/2026/a-neighbouring-vista-o.jpg" />
       <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/a-neighbouring-vista-o.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>What if the idea of the autism spectrum is completely wrong?</title>
+      <link>https://www.newscientist.com/article/2509117-what-if-the-idea-of-the-autism-spectrum-is-completely-wrong/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</link>
+      <description>For years, we&apos;ve thought of autism as lying on a spectrum, but emerging evidence suggests that it comes in several distinct types. The implications for how we support autistic people could be profound</description>
+      <pubDate>Mon, 05 Jan 2026 16:10:03 +0000</pubDate>
+      <media:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/01/05160101/SEI_279757405.jpg" />
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/01/05160101/SEI_279757405.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Weird clump in the early universe is piping hot and we don’t know why</title>
+      <link>https://www.newscientist.com/article/2509976-weird-clump-in-the-early-universe-is-piping-hot-and-we-dont-know-why/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</link>
+      <description>A galaxy cluster in the early universe is 10 times hotter than it ought to be, which may reshape how we think these enormous structures formed</description>
+      <pubDate>Mon, 05 Jan 2026 16:00:51 +0000</pubDate>
+      <media:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/01/02212909/SEI_279435215.jpg" />
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/01/02212909/SEI_279435215.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>&apos;Atmospheric inversion&apos; may help predict when a humid heat wave will break</title>
@@ -3719,30 +3751,6 @@
       <link>https://phys.org/news/2025-12-image-hatch-thermal-space-station.html</link>
       <description>Clockwise from left, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui and NASA astronauts Jonny Kim, Zena Cardman, and Mike Fincke pose for a playful portrait through a circular opening in a hatch thermal cover aboard the International Space Station on Sept. 18, 2025.</description>
       <pubDate>Tue, 16 Dec 2025 21:34:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>NASA JPL tests future lunar craft with shake-up</title>
-      <link>https://phys.org/news/2025-12-nasa-jpl-future-lunar-craft.html</link>
-      <description>The same historic facilities that some 50 years ago prepared NASA&apos;s twin Voyager probes for their ongoing interstellar odyssey are helping to ready a towering commercial spacecraft for a journey to the moon. Launches involve brutal shaking and astonishingly loud noises, and testing in these facilities mimics those conditions to help ensure mission hardware can survive the ordeal.</description>
-      <pubDate>Tue, 16 Dec 2025 21:29:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ocean sediments are key to survival of northeastern US salt marshes</title>
-      <link>https://phys.org/news/2025-12-ocean-sediments-key-survival-northeastern.html</link>
-      <description>Salt marshes, those critical habitats that protect coastal towns from flooding, store massive amounts of blue carbon, support fisheries and play a key role in ecological resilience, are struggling to survive as oceans rise due to climate change.</description>
-      <pubDate>Tue, 16 Dec 2025 20:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Signature of climate change: Nearly half of harmful wildfire smoke exposure linked to human-caused warming</title>
-      <link>https://phys.org/news/2025-12-signature-climate-wildfire-exposure-linked.html</link>
-      <description>Across the western U.S., wildfires and the dangerous smoke that results have increased in frequency and intensity since the 1990s—that much is clear. Surprisingly less clear are the exact reasons why: While greenhouse gas-related global warming is often cited as a culprit, to what extent can this claim be quantified?</description>
-      <pubDate>Tue, 16 Dec 2025 20:15:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>One of NASA&apos;s key cameras orbiting Mars takes 100,000th image</title>
-      <link>https://phys.org/news/2025-12-nasa-key-cameras-orbiting-mars.html</link>
-      <description>After nearly 20 years on the Red Planet, NASA&apos;s Mars Reconnaissance Orbiter (MRO) has snapped its 100,000th image of the surface with its HiRISE camera. Short for High Resolution Imaging Science Experiment, HiRISE is the instrument the mission relies on for high-resolution images of features ranging from impact craters, sand dunes, and ice deposits to potential landing sites. Those images, in turn, help improve our understanding of Mars and prepare for NASA&apos;s future human missions there.</description>
-      <pubDate>Tue, 16 Dec 2025 20:03:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
