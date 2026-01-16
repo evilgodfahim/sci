@@ -11,6 +11,7 @@ import json
 # -----------------------------
 FEEDS = [
     "http://www.physorg.com/rss-feed/space-news/",
+"https://techcrunch.com/category/artificial-intelligence/feed/",
     "https://phys.org/rss-feed/earth-news/",
     "https://feeds.newscientist.com/science-news",
     "https://www.thethirdpole.net/en/feed/",
