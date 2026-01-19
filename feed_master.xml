@@ -131,12 +131,36 @@
       <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/flood.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Why a tool-using cow could change how we see farm animals</title>
+      <link>https://www.newscientist.com/article/2511920-why-a-tool-using-cow-could-change-how-we-see-farm-animals/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</link>
+      <description>A pet cow has learned to scratch herself with a broom, showing creative problem-solving skills that make it harder to ignore the fact that these animals have minds, says Marta Halina</description>
+      <pubDate>Mon, 19 Jan 2026 16:00:47 +0000</pubDate>
+      <media:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/01/16153219/SEI_281020184.jpg" />
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/01/16153219/SEI_281020184.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Meet Veronika, the tool-using cow</title>
       <link>https://arstechnica.com/science/2026/01/meet-veronika-the-tool-using-cow/</link>
       <description>Veronika uses sticks to scratch herself, suggesting scientists have underestimated cow cognition</description>
       <pubDate>Mon, 19 Jan 2026 16:00:27 +0000</pubDate>
       <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/01/cowtool1-1152x648.jpg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/01/cowtool1-1152x648.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>New Scientist’s guide to the 21 best ideas of the 21st century</title>
+      <link>https://www.newscientist.com/article/2511326-new-scientists-guide-to-the-21-best-ideas-of-the-21st-century/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</link>
+      <description>A quarter of a century in, this is our definitive pick of the ideas in science and technology that are already transforming the world</description>
+      <pubDate>Mon, 19 Jan 2026 16:00:07 +0000</pubDate>
+      <media:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/01/15134313/SEI_280897592.jpg" />
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/01/15134313/SEI_280897592.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The 5 worst ideas of the 21st century – and how they went wrong</title>
+      <link>https://www.newscientist.com/article/2511248-the-5-worst-ideas-of-the-21st-century-and-how-they-went-wrong/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</link>
+      <description>They offered so much promise, but ultimately turned sour. These are the most disappointing ideas since the turn of the millennium</description>
+      <pubDate>Mon, 19 Jan 2026 16:00:06 +0000</pubDate>
+      <media:thumbnail url="https://images.newscientist.com/wp-content/uploads/2026/01/16121057/SEI_280925076.jpg" />
+      <enclosure url="https://images.newscientist.com/wp-content/uploads/2026/01/16121057/SEI_280925076.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Rogue agents and shadow AI: Why VCs are betting big on AI security</title>
@@ -3742,28 +3766,6 @@
       <pubDate>Fri, 09 Jan 2026 01:50:01 +0000</pubDate>
       <media:thumbnail url="https://scx1.b-cdn.net/csz/news/tmb/2026/cyclist-side-mirror.jpg" />
       <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/cyclist-side-mirror.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>When bushfires make their own weather</title>
-      <link>https://theconversation.com/when-bushfires-make-their-own-weather-273008</link>
-      <description>Intense fires can produce storms that make more fire – and they’re becoming more common.</description>
-      <pubDate>Fri, 09 Jan 2026 00:34:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Temperatures are rising, but what about humidity?</title>
-      <link>https://phys.org/news/2026-01-temperatures-humidity.html</link>
-      <description>Heat waves are becoming commonplace, and so too is high humidity, which can strain the electrical grid, hurt the economy, and endanger human health. But the global prevalence of record-breaking humidity events, some of which approach the physiological limit of what humans can safely handle—and all of which go beyond local expectations and adaptations—has not been widely studied.</description>
-      <pubDate>Thu, 08 Jan 2026 23:10:01 +0000</pubDate>
-      <media:thumbnail url="https://scx1.b-cdn.net/csz/news/tmb/2026/temperatures-are-risin.jpg" />
-      <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/temperatures-are-risin.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Michigan man learns the hard way that “catch a cheater” spyware apps aren’t legal</title>
-      <link>https://arstechnica.com/security/2026/01/michigan-man-learns-the-hard-way-that-catch-a-cheater-spyware-apps-arent-legal/</link>
-      <description>Spying doesn&apos;t become legal just because &quot;cheaters&quot; are the targets.</description>
-      <pubDate>Thu, 08 Jan 2026 22:02:31 +0000</pubDate>
-      <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2023/09/trojan-backdoor-1000x648.jpg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/09/trojan-backdoor-1000x648.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
