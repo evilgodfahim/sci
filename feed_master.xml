@@ -43,6 +43,14 @@
       <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/new-3d-map-of-the-suns-1.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>A cup of coffee for depression treatment has better results than microdosing</title>
+      <link>https://arstechnica.com/health/2026/01/placebo-outperforms-lsd-microdosing-for-depression/</link>
+      <description>The effect of microdosing have been overstated, at least when it comes to depression.</description>
+      <pubDate>Sat, 31 Jan 2026 12:19:01 +0000</pubDate>
+      <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1079704034-1152x648.jpg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2020/01/GettyImages-1079704034-1152x648.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>Bezos&apos;s Blue Origin to &apos;pause&apos; space tourism to focus on moon efforts</title>
       <link>https://phys.org/news/2026-01-bezos-blue-space-tourism-focus.html</link>
       <description>Jeff Bezos&apos;s space company Blue Origin said Friday it would temporarily pause flights of its space tourism rocket to focus more resources on its lunar ambitions.</description>
@@ -3697,14 +3705,6 @@
       <link>https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/</link>
       <description>New research looks at how leading AI models hold up doing actual white-collar work tasks, drawn from consulting, investment banking, and law. Most models failed.</description>
       <pubDate>Thu, 22 Jan 2026 21:42:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report: Apple plans to launch AI-powered wearable pin device as soon as 2027</title>
-      <link>https://arstechnica.com/apple/2026/01/report-apple-plans-to-launch-ai-powered-wearable-pin-device-as-soon-as-2027/</link>
-      <description>Apple, OpenAI, Meta, and more are all racing toward AI hardware products.</description>
-      <pubDate>Thu, 22 Jan 2026 21:32:28 +0000</pubDate>
-      <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2021/05/AirTag-1-1152x648.png" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2021/05/AirTag-1-1152x648.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
