@@ -13,6 +13,14 @@
       <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-build-low-c.jpg" type="image/jpeg" />
     </item>
     <item>
+      <title>Dinosaur eggshells can reveal the age of other fossils</title>
+      <link>https://arstechnica.com/science/2026/02/dinosaur-eggshells-can-reveal-the-age-of-other-fossils/</link>
+      <description>Like rocks, egg shells can trap isotopes, allowing us to use them to date samples.</description>
+      <pubDate>Sat, 21 Feb 2026 13:00:01 +0000</pubDate>
+      <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2183166031-1152x648.jpg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2183166031-1152x648.jpg" type="image/jpeg" />
+    </item>
+    <item>
       <title>‘An AlphaFold 4’—scientists marvel at DeepMind drug spin-off’s exclusive new AI</title>
       <link>https://www.scientificamerican.com/article/an-alphafold-4-scientists-marvel-at-deepmind-drug-spin-offs-exclusive-new-ai/</link>
       <description>&lt;p&gt;Isomorphic Lab&amp;rsquo;s proprietary drug-discovery model is a major advance, but scientists developing open-source tools are left guessing how to achieve similar results&lt;/p&gt;</description>
@@ -3556,14 +3564,6 @@
       <pubDate>Fri, 13 Feb 2026 12:00:09 +0000</pubDate>
       <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/02/ariane-64-1152x648.jpg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/02/ariane-64-1152x648.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Platforms bend over backward to help DHS censor ICE critics, advocates say</title>
-      <link>https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/</link>
-      <description>Pam Bondi and Kristi Noem sued for coercing platforms into censoring ICE posts.</description>
-      <pubDate>Fri, 13 Feb 2026 12:00:07 +0000</pubDate>
-      <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/02/meta-google-apple-ICE-1152x648.jpg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/02/meta-google-apple-ICE-1152x648.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
