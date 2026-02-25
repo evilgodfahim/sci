@@ -10,9 +10,7 @@ import json
 # CONFIGURATION
 # -----------------------------
 FEEDS = [
-    "http://www.physorg.com/rss-feed/space-news/",
 "https://www.scientificamerican.com/platform/syndication/rss/",
-"https://techcrunch.com/category/artificial-intelligence/feed/",
 "https://feeds.feedburner.com/zmescience",
     "https://phys.org/rss-feed/earth-news/",
     "https://feeds.newscientist.com/science-news",
@@ -23,7 +21,6 @@ FEEDS = [
     "https://politepaul.com/fd/LmBK70i6qv46.xml",
     "https://theconversation.com/global/topics/climate-change-27/articles.atom",
 "https://feeds.arstechnica.com/arstechnica/index",
- "https://www.technologyreview.com/topnews.rss",
 "https://therecord.media/feed/"
 ]
 
