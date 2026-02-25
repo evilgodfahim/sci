@@ -19,9 +19,7 @@ FEEDS = [
     "https://news.mongabay.com/news.xml",
     "https://politepaul.com/fd/kELFFnMAfctc.xml",
     "https://politepaul.com/fd/LmBK70i6qv46.xml",
-    "https://theconversation.com/global/topics/climate-change-27/articles.atom",
-"https://feeds.arstechnica.com/arstechnica/index",
-"https://therecord.media/feed/"
+    "https://theconversation.com/global/topics/climate-change-27/articles.atom"
 ]
 
 MASTER_FILE = "feed_master.xml"
