@@ -11,6 +11,7 @@ import json
 # -----------------------------
 FEEDS = [
 "https://www.scientificamerican.com/platform/syndication/rss/",
+"https://evilgodfahim.github.io/pt/feeds/feed.xml",
 "https://feeds.feedburner.com/zmescience",
     "https://phys.org/rss-feed/earth-news/",
     "https://feeds.newscientist.com/science-news",
