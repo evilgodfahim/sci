@@ -1552,6 +1552,220 @@
       <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/towfiqu-barbhuiya-msQB97gUxY0-unsplash.jpg?itok=1RkfhRS1" type="image/jpeg" />
     </item>
     <item>
+      <title>AI in, Garbage Out: Is Meta-Analysis in Danger?</title>
+      <link>https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202602/ai-in-garbage-out-is-meta-analysis-in-danger</link>
+      <description>&lt;p&gt;&lt;img alt=&quot;Sebastian Ocklenburg, Ph.D.&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/e1_edited.jpg?itok=z6uf8KQT&quot; style=&quot;border-radius: 6px;&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Meta-Analysis&lt;/strong&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 1.6em; margin-bottom: 4px;&quot;&gt;AI in, Garbage Out: Is Meta-Analysis in Danger?&lt;/h1&gt;&lt;h2 style=&quot;font-size: 1.1em; color: #444; font-weight: normal; margin-top: 0;&quot;&gt;Meta-analysis is an important method in psychology, but “AI slop” threatens it.&lt;/h2&gt;&lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Posted February 28, 2026&lt;/p&gt;&lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 16px 0;&quot; /&gt;
+          &lt;div style=&quot;background: #f0f4ff; border-left: 4px solid #3a5bd9; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0;&quot;&gt;
+            &lt;strong style=&quot;display: block; margin-bottom: 8px; font-size: 1em;&quot;&gt;Key points&lt;/strong&gt;
+            &lt;ul style=&quot;margin: 0; padding-left: 20px;&quot;&gt;
+              &lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Meta-analysis is crucial for integrating research findings across several psychological studies.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;&quot;Garbage in, garbage out&quot; is a core problem in meta-analysis.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Fake AI slop publications are on the rise.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;If AI slop is not filtered out in meta-analysis, the quality of psychological research will decrease.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+                    &lt;p&gt;Sometimes, psychological studies on the same topic show different results. To know what the evidence looks like when the data from all studies on a topic are combined, psychologists often conduct so-called &lt;em&gt;meta-analyses&lt;/em&gt;. In a meta-analysis, the psychological evidence from a variety of sources is statistically combined. In this way, meta-analysis is crucial for highlighting the current best available evidence to optimize healthcare decisions for mental-health problems.&lt;/p&gt;
+
+&lt;h2&gt;“Garbage in, garbage out” is a core problem in meta-analysis&lt;/h2&gt;
+&lt;p&gt;Meta-analysis is, however, not without problems. The quality of a meta-analysis critically depends on the quality of the research studies integrated in the meta-analysis. If the quality of integrated studies is low, the quality of the evidence synthesis is low, too, a phenomenon that has been aptly named GIGO, for “Garbage in, garbage out” (&lt;a href=&quot;https://online.ucpress.edu/collabra/article/8/1/32571/120249/Garbage-In-Garbage-Out-Evaluating-the-Evidentiary&quot;&gt;Sotola and co-workers, 2022&lt;/a&gt;). The core problem with “Garbage in, garbage out” is that readers rarely have the time to check the quality of all studies included in a meta-analysis. Therefore, it is often difficult to distinguish between a meta-analysis based on high quality studies that yields robust findings and one that is based on low-quality, biased studies. This is why guidelines on the reporting of meta-analyses, like the widely cited PRISMA 2020 statement (&lt;a href=&quot;https://www.bmj.com/content/372/bmj.n71.long&quot;&gt;Page and co-workers, 2021&lt;/a&gt;), typically include the suggestion to include a measure of study quality and risk of bias for individual studies included in the evidence synthesis. However, the traditional ways of assessing bias and study quality may not be enough for the incoming wave of so-called “AI slop” papers or fraudulent, AI-generated articles. While AI can be a powerful tool to support psychological science, fake articles with AI-generated data and results pose an existential threat to psychological research.&lt;/p&gt;
+
+&lt;h2&gt;AI slop publications are on the rise and they threaten psychological science&lt;/h2&gt;
+&lt;p&gt;A recent article in &lt;em&gt;Nature&lt;/em&gt; highlighted how big this problem is in computer science, a field that faces a fast increase of the volume of paper submissions to prestigious conferences, with clear indicators that some are entirely AI-generated and contain fraudulent fabrications of data (&lt;a href=&quot;https://www.nature.com/articles/d41586-025-03967-9&quot;&gt;Gibney, 2026&lt;/a&gt;). While psychology is not computer science, as it depends more heavily on patient data and not computer code, it has been convincingly shown that AI can generate fraudulent clinical articles that look authentic at first glance (&lt;a href=&quot;https://www.jmir.org/2023/1/e46924&quot;&gt;Májovský and co-workers, 2023&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2&gt;“AI in, garbage out” could become a real problem for psychological science&lt;/h2&gt;
+&lt;p&gt;Only through in-depth expert analysis for markers of AI-generation in illustrations, analyses, and references can AI slop be detected. This poses a major issue for meta-analysis in psychological research. While many “AI slop” papers may never be published in traditional journals, some may escape the scrutiny of expert reviewers and become published in traditional psychological journals. Others may be published on preprint platforms with less editorial scrutiny than academic journals and still make it on the inclusion list of some meta-analyses. Over time, this may lead to an “AI in, garbage out“ (AIGO) phenomenon in which the quality of psychological meta-analysis will significantly deteriorate. It is therefore crucial that psychological science finds a way to include screening for and weeding out “AI slop” papers in guidelines for meta-analysis. If “AI slop” papers are not systematically excluded from meta-analysis, their results may be wrong. This could have devastating consequences, for example, if decisions on which therapy to use to treat patients are based on the results of a biased meta-analysis.&lt;/p&gt;
+&lt;div class=&quot;pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block&quot; id=&quot;block-adblock-18&quot;&gt;
+  
+    
+      &lt;div class=&quot;pt-ad--container pt-ad-show-text&quot;&gt;
+      &lt;div class=&quot;pt-ad--text&quot;&gt;
+      &lt;span&gt;article continues after advertisement&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;pt-ad--content&quot; id=&quot;div-gpt-ad-1404853927369-9&quot;&gt;
+    
+  &lt;div id=&quot;google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+
+            
+      &lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 24px 0 12px;&quot; /&gt;
+      &lt;p style=&quot;font-size: 0.85em; color: #888;&quot;&gt;
+        &lt;a href=&quot;https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202602/ai-in-garbage-out-is-meta-analysis-in-danger&quot; target=&quot;_blank&quot;&gt;Read the original article on Psychology Today →&lt;/a&gt;
+      &lt;/p&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-cottonbro-7437489.jpg?itok=p8zrBWzm" />
+      <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-cottonbro-7437489.jpg?itok=p8zrBWzm" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Ginger Rule: Why Leaders Need Better Transitions</title>
+      <link>https://www.psychologytoday.com/us/blog/pioneering-perspectives-on-workplace-mental-health/202602/the-ginger-rule-why-leaders-need</link>
+      <description>&lt;p&gt;&lt;img alt=&quot;Damian Salas MBA&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-05/Damian-Salas.jpg?itok=0WjGMqUc&quot; style=&quot;border-radius: 6px;&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Attention&lt;/strong&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 1.6em; margin-bottom: 4px;&quot;&gt;The Ginger Rule: Why Leaders Need Better Transitions&lt;/h1&gt;&lt;h2 style=&quot;font-size: 1.1em; color: #444; font-weight: normal; margin-top: 0;&quot;&gt;How attention residue affects executive load and performance.&lt;/h2&gt;&lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Posted February 28, 2026&lt;/p&gt;&lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 16px 0;&quot; /&gt;
+          &lt;div style=&quot;background: #f0f4ff; border-left: 4px solid #3a5bd9; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0;&quot;&gt;
+            &lt;strong style=&quot;display: block; margin-bottom: 8px; font-size: 1em;&quot;&gt;Key points&lt;/strong&gt;
+            &lt;ul style=&quot;margin: 0; padding-left: 20px;&quot;&gt;
+              &lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Frequent task switching leaves part of your attention on what you just left.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Leaders shift between emotional and analytical roles all day.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Scrolling between meetings adds stimulation, not recovery.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Brief transition rituals can reduce accumulated switching costs.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+                    &lt;p dir=&quot;ltr&quot;&gt;I had a founder tell me last month that she felt fine until about 2 p.m. every day. After that, everything got harder. Not the work itself—the switching. She&apos;d go from a product roadmap meeting to a termination conversation to a financial model review, back-to-back, no buffer. By the time she got to investor prep in the late afternoon, she described it as trying to think through gauze.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;She wasn&apos;t burned out from volume. She was burned out from transitions.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;This pattern shows up constantly in the founders and leadership teams I work with—and most of them misdiagnose it. They think they need more sleep, better systems, or a vacation. Sometimes they think they need a new cofounder or a different role entirely. What they actually need, in most cases, is a two-minute ritual between meetings.&lt;/p&gt;
+
+&lt;h2 dir=&quot;ltr&quot;&gt;What&apos;s Happening When You Switch&lt;/h2&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Researchers call it &lt;em&gt;attention residue&lt;/em&gt;—when you switch tasks before finishing the first one, part of your cognitive processing stays tangled up in whatever you just left. Performance on the next task drops, not because you lack focus, but because attention doesn&apos;t flip like a light switch (Leroy, 2009). This isn&apos;t a willpower problem. It&apos;s architectural.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;The broader task-switching literature confirms the pattern: Responses are substantially slower after a switch, and usually more error-prone (Monsell, 2003). Small, consistent penalties that compound across a ten-hour day. Now imagine what those look like on a founder&apos;s actual Tuesday.&lt;/p&gt;
+&lt;h2 dir=&quot;ltr&quot;&gt;Why Leaders Get Hit Harder&lt;/h2&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Most knowledge workers switch between similar types of analytical tasks. Leaders don&apos;t necessarily get that luxury. &lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;If you&apos;re a leader, you may go from financial modeling to an emotional conversation with a struggling employee to risk assessment on a partnership deal to negotiating terms with a vendor. Each of those requires something fundamentally different from you—analytical precision in one conversation, emotional attunement in the next, risk tolerance after lunch, political navigation before dinner. You&apos;re not repeating the same type of thinking. You&apos;re reloading a completely different operating mode every time.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;And every time you shift without a beat of closure, the switching cost from the last mode carries into the next one. By mid-afternoon, what you&apos;re experiencing isn&apos;t laziness. Everything just takes more effort—decisions feel heavier, your patience thins out, and the kind of creative thinking that came easy at 9 a.m. won&apos;t show up, no matter how hard you push.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;That&apos;s also where burnout sneaks in—not necessarily, though, as emotional collapse. Instead, you may start detaching from the work or stop trusting that your effort moves the needle. Most founders I coach don&apos;t recognize this creeping pattern until it&apos;s been running unchecked for months.&lt;/p&gt;
+&lt;h2 dir=&quot;ltr&quot;&gt;Why Scrolling Isn&apos;t a Break&lt;/h2&gt;
+
+
+&lt;p dir=&quot;ltr&quot;&gt;I get pushback on this one constantly. &quot;I just check Instagram for two minutes between calls. It helps me decompress.&quot;&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;It probably doesn&apos;t. Social media platforms are engineered around novelty, emotional triggers, and intermittent rewards—the same variable reinforcement structure that keeps people at slot machines. From an attention standpoint, scrolling doesn&apos;t give your brain disengagement. It gives your brain different engagement. You don&apos;t come back from scrolling rested. You come back with more noise in your head than when you started.&lt;/p&gt;
+&lt;div class=&quot;pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block&quot; id=&quot;block-adblock-18&quot;&gt;
+  
+    
+      &lt;div class=&quot;pt-ad--container pt-ad-show-text&quot;&gt;
+      &lt;div class=&quot;pt-ad--text&quot;&gt;
+      &lt;span&gt;article continues after advertisement&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;pt-ad--content&quot; id=&quot;div-gpt-ad-1404853927369-9&quot;&gt;
+    
+  &lt;div id=&quot;google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;This isn&apos;t a moral argument about screen time. If you actually want to let go of the last meeting, you need stillness—not a different kind of busy.&lt;/p&gt;
+&lt;h2 dir=&quot;ltr&quot;&gt;The Ginger Rule&lt;/h2&gt;
+&lt;p dir=&quot;ltr&quot;&gt;In sushi restaurants, pickled ginger exists for one reason—to clear the taste of the last piece so you can actually experience the next one. Leaders need something equivalent between cognitive contexts: a boundary rather than a break.&lt;/p&gt;
+
+
+
+  
+
+
+&lt;p dir=&quot;ltr&quot;&gt;Here&apos;s what I teach founders to do in the gap:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li dir=&quot;ltr&quot;&gt;Breathe first, think second. Thirty to sixty seconds of slow exhalation changes something. Your shoulders drop. Your jaw unclenches. Founders tell me it&apos;s the fastest gear shift they&apos;ve found.&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;Name your entry point for what&apos;s next. Not the whole task—just the first move. &quot;Pull up the cap table and check the dilution math.&quot; When you know exactly where you&apos;re starting, you don&apos;t waste the first ten minutes figuring out what to do.&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;Close the last thing for real. Shut the doc, archive the chat, write one sentence about where you left off. If you can still see it, part of you is still working on it.&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;Move your body. Stand up, change rooms, shift your posture. Sounds trivial. But changing what your body is doing helps your mind stop replaying what it was just doing.&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;Nothing new comes in during the gap. No email. No Slack. No feed. The whole point is to let the last thing finish landing. New input defeats that.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Most founders resist this for about a week. Then they can&apos;t believe the difference.&lt;/p&gt;
+&lt;h2 dir=&quot;ltr&quot;&gt;The Larger Point&lt;/h2&gt;
+&lt;p dir=&quot;ltr&quot;&gt;If every afternoon feels like you&apos;re thinking through wet concrete and you can&apos;t figure out why, the problem probably isn&apos;t your calendar. It&apos;s what&apos;s missing between the things on your calendar. Most leadership development focuses on what to do—not on how to end one thing before starting the next. We just expect the brain to keep up.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;It doesn&apos;t. But give it a beat of structured closure, and it will surprise you with what it has left.&lt;/p&gt;
+
+            
+      &lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 24px 0 12px;&quot; /&gt;
+      &lt;p style=&quot;font-size: 0.85em; color: #888;&quot;&gt;
+        &lt;a href=&quot;https://www.psychologytoday.com/us/blog/pioneering-perspectives-on-workplace-mental-health/202602/the-ginger-rule-why-leaders-need&quot; target=&quot;_blank&quot;&gt;Read the original article on Psychology Today →&lt;/a&gt;
+      &lt;/p&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/shutterstock_2709674949.jpg?itok=NJRjKobr" />
+      <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/shutterstock_2709674949.jpg?itok=NJRjKobr" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gaining Clarity Through Aging</title>
+      <link>https://www.psychologytoday.com/us/blog/journey-to-healing/202602/gaining-clarity-through-aging</link>
+      <description>&lt;p&gt;&lt;img alt=&quot;Barbara A Jaffe Ed.D.&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/b%20jaffe.jpg?itok=ZR1MEgOD&quot; style=&quot;border-radius: 6px;&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Aging&lt;/strong&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 1.6em; margin-bottom: 4px;&quot;&gt;Gaining Clarity Through Aging&lt;/h1&gt;&lt;h2 style=&quot;font-size: 1.1em; color: #444; font-weight: normal; margin-top: 0;&quot;&gt;Personal Perspective: Aging reminds me that whatever I want to do, now&apos;s the time.&lt;/h2&gt;&lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Posted February 28, 2026&lt;/p&gt;&lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 16px 0;&quot; /&gt;
+          &lt;div style=&quot;background: #f0f4ff; border-left: 4px solid #3a5bd9; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0;&quot;&gt;
+            &lt;strong style=&quot;display: block; margin-bottom: 8px; font-size: 1em;&quot;&gt;Key points&lt;/strong&gt;
+            &lt;ul style=&quot;margin: 0; padding-left: 20px;&quot;&gt;
+              &lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Aging requires us to contemplate and reflect and ultimately act on our needs and desires.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Aging can teach us the value of self-care.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;We must do what we want for as long as we can.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Following our bliss helps us stay productive and joyful.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+                    &lt;p&gt;I view age as just a number. Yet I feel delighted when someone reacts with shock when learning of my actual age. At almost 72, reality reminds me I am traversing a narrower life trajectory than 10 years ago. My more finite road accommodates fewer friends. Some who once populated my life detached themselves; others, I gently removed. My acceptance of these friendship losses results from my wisdom gained over many lived decades. I once fought for such friends: I called, made plans, stayed in touch, even when they didn’t. Today, I let them go. There just aren’t enough hours in my week to concentrate on those who have withered away from me. While I still appreciate them, honestly, &lt;em&gt;I am just full&lt;/em&gt;. Full of those in the past who showed a cruel side of themselves that I ignored.&lt;/p&gt;
+
+&lt;p&gt;I’m patient, loyal, and understanding until I am not. Then, the rope that has held the friendship boat in place is permanently cut. With detachment, I peacefully watch my loyalty and devotion float away. I am fine with this permanent separation. Today, I have fewer friends, but they have permanent residency within my heart. A positive result of my aging journey.&lt;/p&gt;
+
+&lt;p&gt;I gracefully accept my wrinkles; my non-botoxed forehead; my jellied arms and gravity-sagging breasts and bottom. I have proudly earned every candle on my next birthday cake. I am grateful for each day I am given. When someone asks me how my day is going, I say, “I woke up today, so it’s already a wonderful day.”&lt;/p&gt;
+
+&lt;p&gt;Through aging, I have learned about self-care and self-love, which, for years, meant &lt;em&gt;selfish &lt;/em&gt;to me, but I was wrong. I must take care of myself and fulfill my own needs before I can help others. I am learning to create healthy boundaries and to say &quot;no&quot; more. I am still a work-in-progress in this endeavor, for my default is to worry about others more than myself, to help, even when I am exhausted or feeling unwell. But I have come a long way from believing my mother‘s mantra that “mothers of only sons are selfish.” (I have three sons). I worked through this misguided adage through deep introspection. &lt;em&gt;Barbara&lt;/em&gt;, I reflected, &lt;em&gt;you are the opposite of selfish&lt;/em&gt;. In fact, my dear therapist once reminded me, “I don’t think you can be selfish even if you tried.” And, so, I have embraced &quot;self-care&quot; and my alone-time trips to the ice cream store for my favorite waffle cone, filled with a double scoop of salty caramel truffle. I enjoy an occasional facial. Frequently, I go to a nearby coffeehouse for my special four-shot Americano instead of making my own cup at home. All definitions of my own self-care.&lt;/p&gt;
+
+&lt;p&gt;In my seventh decade, I don’t wait for others to fulfill my needs. They can’t read my mind. Even my husband of almost 50 years doesn’t always know what I require, but we accept that our personal requirements are different. The beauty of aging with someone I love dearly is that I acknowledge what brought us together, and at the same time, I accept our differences. My happy place is in my office, writing, or reading outside in my swing chair. I am blissful when I am with my grandchildren and babysitting to help our children. I adore cooking again, after a hiatus of about eight years. I get great joy from choosing my colorful clothing every day, even if I have no plans to leave my house.&lt;/p&gt;
+&lt;div class=&quot;pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block&quot; id=&quot;block-adblock-18&quot;&gt;
+  
+    
+      &lt;div class=&quot;pt-ad--container pt-ad-show-text&quot;&gt;
+      &lt;div class=&quot;pt-ad--text&quot;&gt;
+      &lt;span&gt;article continues after advertisement&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;pt-ad--content&quot; id=&quot;div-gpt-ad-1404853927369-9&quot;&gt;
+    
+  &lt;div id=&quot;google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+
+&lt;div class=&quot;insertArea ck-widget&quot;&gt;
+&lt;div class=&quot;image-article-inline-half&quot;&gt;
+&lt;div class=&quot;insert-inner&quot;&gt;
+&lt;div class=&quot;insert-image&quot;&gt;&lt;img alt=&quot;The author on her morning walk around the gorgeous lake.&quot; class=&quot;image-article_inline_half_caption&quot; height=&quot;240&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/IMG_5050.jpeg.jpg?itok=spMwNHbt&quot; title=&quot;bjaffe/blogger&quot; width=&quot;320&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;caption&quot;&gt;The author on her morning walk around the gorgeous lake.&lt;/div&gt;
+&lt;div class=&quot;insertArea--origin subtext&quot;&gt;Source: bjaffe/blogger&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Paul enjoys these activities as well ( not reading or clothing selection), but his preferences are slightly different. He might not want to babysit for hours, but he adores his time with the little ones. He prefers to go out for a meal instead of having me work hard in the kitchen, despite my desire to do so. He is better at taking care of his own needs, determining when he has had enough and needs to detach from others. Sometimes he shakes his head at me as I race around the kitchen, while I shake my head at him while he plays games on his iPad. We accept each other, warts and all, through our devotion to each other. Another gift of aging together.&lt;/p&gt;
+
+&lt;p&gt;Paul has guided me in standing up for myself. When we disagree, I explain my position. In my family of origin, it was easier to acquiesce rather than speak up. Paul has helped me find my voice, another reward of growing old together. When our youngest was in high school, I surprised Paul with my unique desire: “I want to return to graduate school for my doctorate.” I sensed this was a challenge for us since we had one son about to go to college and two others in college, but I was determined. Paul suggested that I wait until Brian graduated from college in four years.&lt;/p&gt;
+
+
+&lt;p&gt;“I’ll have no brain cells left by then,” I responded. “But it’s so expensive,” and, of course, his retort was valid.&lt;/p&gt;
+&lt;p&gt;But I found a way. I applied; I submitted my application; I was accepted; I took out loans. I filed my dissertation on my 50th birthday, my ultimate act of self-care! Logically, the timing was wrong; financially, it provided stress, but we survived, and I flourished. And that was almost 22 years ago!&lt;/p&gt;
+
+&lt;p&gt;Aging reminds me that if I want to do something now, I must do it, for I ask myself, “If not now, when?” Take a trip? Visit a friend? Wear my new shoes instead of saving them for a special occasion? The special occasion is today. I give myself permission to stop reading a book I am not enjoying. I let go of my plans to go to the market so I can play games with a grandchild. Very soon, they will outgrow such activities with their Nana.&lt;/p&gt;
+
+
+
+  
+
+
+&lt;p&gt;Some friends my age have become ill, incapacitated, limited, or just exhausted. With such physical changes, I see their worlds shrink. I am fighting against time as well to do what I want for as long as I can. We will travel until we cannot. I also reorganize my daily priorities depending on my desires; for example, I smile at the adage, “Life is too short; eat dessert first.” So, occasionally, I seek the cream cheese frosted carrot cake for lunch or my favorite farmers market blueberry scone.&lt;/p&gt;
+&lt;div class=&quot;pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block&quot; id=&quot;block-adblock-19&quot;&gt;
+  
+    
+      &lt;div class=&quot;pt-ad--container pt-ad-show-text&quot;&gt;
+      &lt;div class=&quot;pt-ad--text&quot;&gt;
+      &lt;span&gt;article continues after advertisement&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;pt-ad--content&quot; id=&quot;div-gpt-ad-1456244145486-0&quot;&gt;
+    
+  &lt;div id=&quot;google_ads_iframe_/1032688/300x250_in-content_0__container__&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+
+&lt;div class=&quot;insertArea ck-widget&quot;&gt;
+&lt;div class=&quot;image-article-inline-half&quot;&gt;
+&lt;div class=&quot;insert-inner&quot;&gt;
+&lt;div class=&quot;insert-image&quot;&gt;&lt;img alt=&quot;The author and her husband in a Patagonia ice bar.&quot; class=&quot;image-article_inline_half_caption&quot; height=&quot;356&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/27e1fbe7-eca7-456b-902e-008f05df822e.jpg?itok=bxBkcu0P&quot; title=&quot;bjaffe/blogger&quot; width=&quot;320&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;caption&quot;&gt;The author and her husband in a Patagonia ice bar.&lt;/div&gt;
+&lt;div class=&quot;insertArea--origin subtext&quot;&gt;Source: bjaffe/blogger&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Yes, one day I will grow very old, but not today. &lt;/p&gt;
+
+            
+      &lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 24px 0 12px;&quot; /&gt;
+      &lt;p style=&quot;font-size: 0.85em; color: #888;&quot;&gt;
+        &lt;a href=&quot;https://www.psychologytoday.com/us/blog/journey-to-healing/202602/gaining-clarity-through-aging&quot; target=&quot;_blank&quot;&gt;Read the original article on Psychology Today →&lt;/a&gt;
+      &lt;/p&gt;</description>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/27e1fbe7-eca7-456b-902e-008f05df822e.jpg?itok=ltF5Do6q" />
+      <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/27e1fbe7-eca7-456b-902e-008f05df822e.jpg?itok=ltF5Do6q" type="image/jpeg" />
+    </item>
+    <item>
       <title>Glyphosate is driving a rift in MAHA. Here’s what the science says about its effects on health</title>
       <link>https://www.scientificamerican.com/article/glyphosate-is-driving-a-rift-in-maha-heres-what-the-science-says-about-its/</link>
       <description>&lt;p&gt;The Trump administration wants to boost manufacturing of glyphosate, the world&amp;rsquo;s most common weed killer. Here&amp;rsquo;s what that could mean for health&lt;/p&gt;</description>
@@ -11338,28 +11552,6 @@
       <pubDate>Fri, 20 Feb 2026 18:00:54 +0000</pubDate>
       <media:thumbnail url="https://images.newscientist.com/wp-content/uploads/2024/04/17102106/new-scientist-social-meta-image.png" />
       <enclosure url="https://images.newscientist.com/wp-content/uploads/2024/04/17102106/new-scientist-social-meta-image.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>New generation of climate models sheds first light on long-standing Pacific puzzle</title>
-      <link>https://phys.org/news/2026-02-generation-climate-pacific-puzzle.html</link>
-      <description>Researchers have long been puzzled by the observed cooling of the eastern tropical Pacific and the Southern Ocean accompanying global warming. Existing climate models have failed to capture this pattern. At the Max Planck Institute for Meteorology, researchers have come a significant step closer to the answer: Using a new generation of more physical climate models, they have demonstrated the first successful representation of the observed trend in a climate simulation and have delivered an explanation of the underlying mechanisms.</description>
-      <pubDate>Fri, 20 Feb 2026 17:45:44 +0000</pubDate>
-      <media:thumbnail url="https://scx1.b-cdn.net/csz/news/tmb/2026/new-generation-of-clim.jpg" />
-      <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/new-generation-of-clim.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Trump administration slashes mercury regulations from coal plants</title>
-      <link>https://www.scientificamerican.com/article/trump-administration-slashes-mercury-regulations-from-coal-plants/</link>
-      <description>&lt;p&gt;Mercury pollution from coal plants has been tied to serious neurological problems, especially in children and babies&lt;/p&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 17:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Final Fantasy is now targeting PC as its &quot;lead platform&quot;</title>
-      <link>https://arstechnica.com/gaming/2026/02/why-final-fantasy-is-now-targeting-pc-as-its-lead-platform/</link>
-      <description>Director says PC is the &quot;foundation&quot; when targeting &quot;high-end environments first.&quot;</description>
-      <pubDate>Fri, 20 Feb 2026 17:26:59 +0000</pubDate>
-      <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2024/09/clouddress-1152x648.png" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/09/clouddress-1152x648.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
