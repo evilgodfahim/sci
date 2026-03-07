@@ -2727,6 +2727,378 @@
       <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-marina-ryazantseva-78161760-8673121.jpg?h=e5a58e09&amp;itok=W6X3uiz0" type="image/jpeg" />
     </item>
     <item>
+      <title>Why Good People Can&apos;t See the AI Threats Ahead</title>
+      <link>https://www.psychologytoday.com/us/blog/tech-happy-life/202603/why-good-people-cant-see-the-ai-threats-ahead</link>
+      <description>&lt;p&gt;&lt;img alt=&quot;Mike Brooks Ph.D.&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-09/DMB_2025_Small-removebg-preview.jpg?itok=8YGRDwdh&quot; style=&quot;border-radius: 6px;&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Artificial Intelligence&lt;/strong&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 1.6em; margin-bottom: 4px;&quot;&gt;Why Good People Can&apos;t See the AI Threats Ahead&lt;/h1&gt;&lt;h2 style=&quot;font-size: 1.1em; color: #444; font-weight: normal; margin-top: 0;&quot;&gt;Personal Perspective: The dangers of AI we didn&apos;t evolve to imagine.&lt;/h2&gt;&lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Posted March 6, 2026&lt;/p&gt;&lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 16px 0;&quot; /&gt;
+          &lt;div style=&quot;background: #f0f4ff; border-left: 4px solid #3a5bd9; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0;&quot;&gt;
+            &lt;strong style=&quot;display: block; margin-bottom: 8px; font-size: 1em;&quot;&gt;Key points&lt;/strong&gt;
+            &lt;ul style=&quot;margin: 0; padding-left: 20px;&quot;&gt;
+              &lt;li style=&quot;margin-bottom: 6px;&quot;&gt;We laugh at each new AI iteration right up until it&apos;s too late. This is a pattern as old as the steam engine.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;AI agents have already retaliated against humans and disabled their own safety controls unprompted.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Bad actors are imagining AI-powered schemes that decent people would never think to anticipate.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;There is no enforceable global regulation for autonomous AI agents operating on private computers.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+                    &lt;p&gt;An AI-generated video of Brad Pitt and Tom Cruise fighting went viral a few weeks ago. The &lt;em&gt;Deadpool&lt;/em&gt; writer admitted he was &quot;shook&quot; by it. But scroll through the comments, and you&apos;ll find the same reaction everywhere: &quot;It still looks fake.&quot; &quot;Not as good as a real movie.&quot; &quot;Wake me when it can do emotions.&quot;&lt;/p&gt;
+
+&lt;p&gt;That&apos;s the wrong argument.&lt;/p&gt;
+&lt;p&gt;People looked at the first car and said, &quot;It&apos;s slower than a horse — why bother?&quot; In the John Henry legend, he beat the steam drill in that famous race — and then he died. And then steam drills replaced every human doing that job. The Wright brothers&apos; first flight in 1903 lasted twelve seconds. Twelve! And yet we put humans on the moon in 1969.&lt;/p&gt;
+
+&lt;p&gt;We have a long history of laughing at first iterations and then getting steamrolled by what comes next. Remember mocking the first AI-generated images of people for having six fingers? We stopped laughing, only to find something else about AI to laugh at.&lt;/p&gt;
+&lt;p&gt;When people dismiss AI-generated movies because the quality isn&apos;t there &lt;em&gt;yet&lt;/em&gt;, they&apos;re committing the same cognitive error I wrote about in my previous article on &lt;a href=&quot;https://www.psychologytoday.com/us/blog/tech-happy-life/202602/our-evolutionary-blindness-to-the-ai-revolution&quot;&gt;evolutionary blindness&lt;/a&gt;. We conflate &quot;I can&apos;t imagine this&quot; with &quot;this can&apos;t happen.&quot; &lt;/p&gt;
+
+&lt;p&gt;We judge the current frame and completely miss the trajectory. I call this &lt;em&gt;Myopic Magnification&lt;/em&gt; — our tendency to undervalue future consequences gets &lt;em&gt;worse&lt;/em&gt; the faster things change.&lt;/p&gt;
+&lt;h2&gt;Digital Petri Dishes&lt;/h2&gt;
+&lt;p&gt;Have you heard about Moltbook? In late January, 1.5 million AI agents congregated on a single platform. The founder admitted he didn&apos;t write a line of code — AI built the whole thing. A security investigation exposed 1.5 million authentication tokens that could hijack agents on private computers worldwide.&lt;/p&gt;
+
+&lt;p&gt;Many people were dismissive. But what stops someone from building Moltbook 2.0? Or 3.0?&lt;/p&gt;
+&lt;p&gt;Almost nothing.&lt;/p&gt;
+&lt;p&gt;The code is open. Anyone can create a platform for AI agents to interact, learn from each other, and evolve their behaviors — unsupervised. The next person might not patch the security holes. The next person might create a forum for AIs to work together to breach security...perhaps just to see what would happen. &lt;/p&gt;
+
+&lt;p&gt;Think of these platforms as digital petri dishes. In biology, a petri dish creates conditions for organisms to mutate in ways nobody designed. Some mutations are harmless. Some are catastrophic. The scientist doesn&apos;t get to choose; they create the conditions, and evolution does its thing.&lt;/p&gt;
+&lt;p&gt;That&apos;s what&apos;s happening now, except the mutations aren&apos;t biological. They&apos;re behavioral. And they iterate at machine speed.&lt;/p&gt;
+
+&lt;h2&gt;When the AI Fought Back&lt;/h2&gt;
+&lt;p&gt;While concerns about AI agents going rogue sound like something from &lt;em&gt;The Matrix&lt;/em&gt;, our new reality is upon us already.&lt;/p&gt;
+&lt;p&gt;In February, a volunteer code maintainer named Scott Shambaugh rejected a routine submission from an AI agent on a popular open-source software project. It didn&apos;t take it well. Instead of improving its code, the AI agent appeared to research Shambaugh&apos;s personal background and published a &quot;&lt;a href=&quot;https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/&quot;&gt;hit piece&lt;/a&gt;&quot; — a blog attacking his character.&lt;/p&gt;
+
+&lt;p&gt;Shambaugh called it &quot;an autonomous influence operation against a supply chain gatekeeper.&quot; In plain language: an AI tried to bully its way past a human by smearing his reputation.&lt;/p&gt;
+&lt;p&gt;Was the AI acting on its own, or was a human pulling the strings? That&apos;s debated. And honestly? &lt;em&gt;It doesn&apos;t matter.&lt;/em&gt; The tooling to do this at scale now exists and is freely available.&lt;/p&gt;
+
+&lt;p&gt;To add an absurdly ironic twist, a major tech publication covered the incident, but used AI to extract quotes from Shambaugh&apos;s blog — and the AI hallucinated false quotes attributed to him. He was attacked by one AI and then misquoted by another.&lt;/p&gt;
+&lt;h2&gt;The Goodness Blind Spot&lt;/h2&gt;
+&lt;p&gt;Now here&apos;s the part that worries me most. It&apos;s not the technology, it&apos;s our psychology.&lt;/p&gt;
+
+
+
+  
+
+
+&lt;p&gt;Most of us are decent people, especially when we&apos;re interacting in-person versus online. We go to work, love our families, and try to do right by our neighbors. We don&apos;t spend our free time dreaming up schemes to swindle, blackmail, or destroy someone&apos;s reputation.&lt;/p&gt;
+&lt;p&gt;But bad actors do. That&apos;s literally what makes them bad actors. And now they have the most powerful amplifier in human history at their fingertips.&lt;/p&gt;
+
+&lt;p&gt;Think about what&apos;s already possible. Imagine you had a bad experience with a doctor or lawyer, and you wanted revenge. You could direct an AI agent to create dozens of fake profiles across multiple platforms, write personalized negative reviews, publish defamatory blog posts — all at scale and virtually untraceable. The target wouldn&apos;t even know what hit them.&lt;/p&gt;
+
+&lt;p&gt;We&apos;ve already seen this playbook in analog form: trolls, hackers, catfishers, and scammers. The internet didn&apos;t invent bad behavior. It amplified it. Bad actors can now amplify their bad behaviors exponentially in lockstep with AI evolution.&lt;/p&gt;
+&lt;p&gt;I call this the &lt;em&gt;Goodness Blind Spot: &lt;/em&gt;Because decent people don&apos;t think like predators, we can&apos;t even &lt;em&gt;imagine&lt;/em&gt; the schemes that bad actors are dreaming up right now. Our basic goodness prevents us from seeing what cruelty looks like when it&apos;s armed with exponentially evolving AI. &lt;/p&gt;
+
+&lt;p&gt;Imagine deep-fake AI revenge porn created by AI agents. I bet you hadn&apos;t thought of it until you just read it. But guess who has already thought of this and much worse? Bad actors.&lt;/p&gt;
+&lt;p&gt;And the blind spot works in both directions. We can&apos;t imagine the intentional evil. But we also can&apos;t imagine the &lt;em&gt;accidental&lt;/em&gt; catastrophes, the disasters that well-meaning people will stumble into. The Moltbook founder didn&apos;t intend for 1.5 million authentication tokens to be exposed. It happened anyway. The coding agent wasn&apos;t programmed to disable its own safety controls. It happened anyway.&lt;/p&gt;
+
+&lt;p&gt;The danger isn&apos;t just that bad actors will weaponize AI. It&apos;s that the rest of us will sleepwalk into catastrophe because we&apos;re too blind to see what we&apos;re building.&lt;/p&gt;
+&lt;h2&gt;Seeing What We Can&apos;t See&lt;/h2&gt;
+&lt;p&gt;So where does this leave us?&lt;/p&gt;
+&lt;p&gt;While we&apos;re not doomed, we must realize that &lt;a href=&quot;https://www.psychologytoday.com/us/blog/tech-happy-life/202310/humanity-is-sailing-into-the-ai-oceans-of-uncertainty&quot;&gt;Titanic Humanity&lt;/a&gt; is rocketing into icy waters. &lt;/p&gt;
+
+&lt;p&gt;We evolved to detect threats we could see: the predator, the fire, and the storm. We did not evolve to anticipate threats that require us to think like villains in a sci-fi world. &lt;/p&gt;
+&lt;p&gt;Although Mary Shelley and countless sci-fi writers have long envisioned losing control of our creations, we still can&apos;t imagine it happening in real life. &lt;em&gt;We are blind to the warnings of our own cautionary tales. &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We have no enforceable global regulation for AI agents. We have no feedback mechanisms for bad behavior in decentralized systems. And the faster this accelerates, the blinder we become to it.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Weaponizing AI is proof itself that we lack the wisdom to use it skillfully. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The precautionary principle tells us that when the potential consequences are catastrophic and the uncertainties are high, we act with caution, even before we have perfect information. We don&apos;t have to see the icebergs ahead to slow down Titanic Humanity. We simply have to know that there are some out there.&lt;/p&gt;
+
+&lt;p&gt;Because AI changes everything, everything must change — including how we think about the threats we didn&apos;t evolve to see.&lt;/p&gt;
+&lt;p&gt;Understanding our blindness is how we begin to see.&lt;/p&gt;
+
+            
+      &lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 24px 0 12px;&quot; /&gt;
+      &lt;p style=&quot;font-size: 0.85em; color: #888;&quot;&gt;
+        &lt;a href=&quot;https://www.psychologytoday.com/us/blog/tech-happy-life/202603/why-good-people-cant-see-the-ai-threats-ahead&quot; target=&quot;_blank&quot;&gt;Read the original article on Psychology Today →&lt;/a&gt;
+      &lt;/p&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/AI%20Petri%20Dish.png.jpg?itok=esnyvHsx" />
+      <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/AI%20Petri%20Dish.png.jpg?itok=esnyvHsx" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Mental Habit Quietly Making People Feel Lonely</title>
+      <link>https://www.psychologytoday.com/us/blog/liking-the-child-you-love/202603/the-mental-habit-quietly-making-people-feel-lonely</link>
+      <description>&lt;p&gt;&lt;img alt=&quot;Jeffrey Bernstein Ph.D.&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/image0_1_-removebg-preview.png.jpg?itok=9LsLSHnF&quot; style=&quot;border-radius: 6px;&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Loneliness&lt;/strong&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 1.6em; margin-bottom: 4px;&quot;&gt;The Mental Habit Quietly Making People Feel Lonely&lt;/h1&gt;&lt;h2 style=&quot;font-size: 1.1em; color: #444; font-weight: normal; margin-top: 0;&quot;&gt;How overthinking sabotages connection and a simple way to break the cycle.&lt;/h2&gt;&lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Posted March 6, 2026&lt;/p&gt;&lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 16px 0;&quot; /&gt;
+          &lt;div style=&quot;background: #f0f4ff; border-left: 4px solid #3a5bd9; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0;&quot;&gt;
+            &lt;strong style=&quot;display: block; margin-bottom: 8px; font-size: 1em;&quot;&gt;Key points&lt;/strong&gt;
+            &lt;ul style=&quot;margin: 0; padding-left: 20px;&quot;&gt;
+              &lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Overthinking loves to see us withdraw from others.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Engage by taking a simple action toward a connection, even if it&apos;s just a first step.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;The goal is to halt that second-guessing that creeps in and quietly sabotages our connections.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+                    &lt;p&gt;Loneliness is increasingly described as an epidemic. In 2023, the surgeon general, Vivek Murthy, warned that widespread loneliness and lack of social connection had become a national public health crisis. A key point from that advisory is that about 1 in 2 adults in the United States reported significant loneliness. &lt;/p&gt;
+
+&lt;p&gt;We often hear the usual culprits discussed, such as social media, remote work, fewer places that people congregate, and fewer close friendships. But what if how our brains internally process external interactions plays a huge role in our feelings of loneliness? &lt;/p&gt;
+&lt;h2&gt;Overthinking Is a Huge Driver of Loneliness. &lt;/h2&gt;
+
+&lt;p&gt;For many people I see, in my work as a psychologist, loneliness is not about people having too few connections or even relationships. It&apos;s about having a spinning mind that constantly second-guesses social opportunities and interactions. &lt;/p&gt;
+&lt;p&gt;For example, a forty-ish female client of mine recently shared with me that after conversations end (both live ones and through text), she often asks herself, &quot;Did I say something stupid?&quot;, &quot;Why was there that awkward pause at one point before they responded?&quot;, &quot;I wonder if they think I&apos;m weird?&quot;&lt;/p&gt;
+
+&lt;p&gt;This client of mine illustrates what so many lonely people do. Instead of letting conversations pass naturally, they tend to dissect and overexamine them like a movie in an endless loop. The problem is that casual mental reflections end up becoming hypervigilant, mental surveillance. &lt;/p&gt;
+&lt;h2&gt;Social Withdrawal Comes From Avoidance&lt;/h2&gt;
+
+&lt;p&gt;Overthinking loves to see us withdraw from others. Why? Because then overthinking takes over our attention even more. It is not shocking, after all, when others describe to us how, when they overthink, they feel exhausted, and then they withdraw. &lt;/p&gt;
+&lt;p&gt;People may start hesitating in responding to texts. Then they find themselves avoiding invitations. Or, if they do engage, they obsess over what to say (or the what-ifs of what others may ask them) until the moments of interaction are over — but then they incessantly replay them. It&apos;s ironic, but the very thinking meant to protect overthinkers from embarrassment is what drives them into isolation. &lt;/p&gt;
+
+&lt;h2&gt;Overthinking Impacts Everyone, but Especially Young Adults and Teens&lt;/h2&gt;
+&lt;p&gt;This socially themed, overthinking pattern happens to all of us, but it is a matter of degree. In today&apos;s social media-driven world, digital natives such as young adults and teens who grew up with it are highly vulnerable to overanalyzing. This means maddening mental loops about text messages, group chats, and social media responses (or lack thereof). A delayed response feels painful. A lack of a cool emoji or a neutral response signals the &quot;What did I do to upset them?&quot; alarm. &lt;/p&gt;
+
+&lt;p&gt;The awful kicker here is that over time, these overthinking patterns quietly shape the behaviors of others who may reach out less, because they pick up on the hesitancy and pulling back of the overthinkers. So, loneliness grows not because relationships are impossible, but because overthinking gets in the way of them.&lt;/p&gt;
+
+
+&lt;h2&gt;How About Setting the PACE to Heal From Loneliness &lt;/h2&gt;
+&lt;p&gt;One way to interrupt this overthinking cycle laden with upsetting mental spirals is through a framework I call PACE, which I use with children, teens, young adults, and parents. I describe the PACE model in more detail in my book, &lt;em&gt;Freeing Your Child From Overthinking. &lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;To highlight it here, it stands for &lt;em&gt;Pause, Acknowledge, Contain, and Engage.&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;P&lt;/strong&gt;ause to notice when your mind is spinning stories about what others may be thinking. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A&lt;/strong&gt;cknowledge your anxious thought by recognizing it and noting that it feels uncomfortable. Also, acknowledge that you don&apos;t have to believe it. &lt;/p&gt;
+
+
+
+  
+
+
+&lt;p&gt;&lt;strong&gt;C&lt;/strong&gt;ontain by setting time limits on how long you will replay conversations or analyze conversations. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;E&lt;/strong&gt;ngage by taking a simple action toward a connection, even if it&apos;s just a first step. Send that text, say hi to a neighbor, join a conversation, or reach out to someone in some other way. And, if it feels uncomfortable (but not impossible), all the better. &lt;/p&gt;
+
+&lt;h2&gt;Final Thoughts&lt;/h2&gt;
+&lt;p&gt;The goal is not to eliminate concerning thoughts. After all, sensitivity and thoughtfulness can strengthen relationships. Rather, the goal is to halt that second-guessing that creeps in and quietly sabotages the connections we cherish most. &lt;/p&gt;
+
+            
+      &lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 24px 0 12px;&quot; /&gt;
+      &lt;p style=&quot;font-size: 0.85em; color: #888;&quot;&gt;
+        &lt;a href=&quot;https://www.psychologytoday.com/us/blog/liking-the-child-you-love/202603/the-mental-habit-quietly-making-people-feel-lonely&quot; target=&quot;_blank&quot;&gt;Read the original article on Psychology Today →&lt;/a&gt;
+      &lt;/p&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-ekaterina-bolovtsova-4049737%20young%20woman%20overthinking.jpg?itok=p3YqpEmD" />
+      <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-ekaterina-bolovtsova-4049737%20young%20woman%20overthinking.jpg?itok=p3YqpEmD" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Why Queer Clients Need Queer Therapists</title>
+      <link>https://www.psychologytoday.com/us/blog/healing-the-oppressed-body/202603/why-queer-clients-need-queer-therapists</link>
+      <description>&lt;p&gt;&lt;img alt=&quot;Gutiérrez-Glik&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-12/Andrea%20Gutie%CC%81rrez-Glik.png.jpg?itok=peEKK-Rr&quot; style=&quot;border-radius: 6px;&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Sexual Orientation&lt;/strong&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 1.6em; margin-bottom: 4px;&quot;&gt;Why Queer Clients Need Queer Therapists&lt;/h1&gt;&lt;h2 style=&quot;font-size: 1.1em; color: #444; font-weight: normal; margin-top: 0;&quot;&gt;Personal Perspective: How to be a good therapist to your queer and trans clients.&lt;/h2&gt;&lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Posted March 6, 2026&lt;/p&gt;&lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 16px 0;&quot; /&gt;
+          &lt;div style=&quot;background: #f0f4ff; border-left: 4px solid #3a5bd9; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0;&quot;&gt;
+            &lt;strong style=&quot;display: block; margin-bottom: 8px; font-size: 1em;&quot;&gt;Key points&lt;/strong&gt;
+            &lt;ul style=&quot;margin: 0; padding-left: 20px;&quot;&gt;
+              &lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Many queer clients are misunderstood and judged in therapy with straight therapists.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Queer people deserve the option to see someone skilled and queer.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Straight therapists who work with queer and trans folks need to do more to be educated about our lives.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Straight therapists can do this through immersing themselves in queer culture and getting supervision.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+                    &lt;p dir=&quot;ltr&quot;&gt;As a therapist who is both queer herself and works almost exclusively with queer and trans folks, I have both firsthand experiences and have heard from hundreds of clients that past therapists didn’t understand them, and in fact, pathologized them, for the ways their lives fall outside the straight norm.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;For me, this showed up when a trauma therapist I saw in college conflated my lesbianism with sexual abuse I must have not remembered. The same therapist, when I expressed distress over breakups and hookups happening in my friend group, suggested: Why don’t you all just stop having sex with each other? I stopped seeing her shortly after both of these comments and avoided therapy for years.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;This therapist couldn’t comprehend why I wouldn’t be with a man other than having experienced sexual abuse at the hands of one — a take that is extremely reductive and pathologizing for queer and trans folks, but also for survivors of sexual abuse.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;This therapist also didn’t understand, because she didn’t take the time to, that my friend group was also my dating pool, my hookup pool, and that, generally speaking, it is typical for queer and trans folks to have relationships of all kinds with their friends, sexual ones included.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;These are simply two reasons out of hundreds I could provide for why I worked up the courage to step into the office of a queer therapist. When I did, I no longer had to explain myself. I no longer felt judged or misunderstood.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;My clients come to me because of the thing that makes me different, my queerness. They also come to me for specific types of life issues, and for certain modalities I offer, like EMDR, I-CBT, and so on. They deserve care that is affirming &lt;em&gt;and &lt;/em&gt;evidence-based. But in my community, we are so rarely able to access both of these, or even one of them.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;When I began experiencing postpartum OCD after the birth of my first child, I sought out an OCD specialist. There was not a queer OCD therapist I could find in my area (let that sink in), so I opted to see a highly experienced clinician who was heterosexual, and hoped for the best.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;I was able to experience such a corrective experience with her. She had all the skills I needed to heal from my OCD, and our work inspired me to get trained myself! When, at one point, she felt she had said something offensive, we had an open and honest conversation in which I did not have to educate her or take care of her emotionally.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Queer clients need us, as queer therapists, so they can show up fully and not fear shame or judgment. It is also our job as queer therapists to not be just a safe person in the community, but also a person in our community who is ready and skilled in specific mental health issues our community faces and needs help with, such as trauma, OCD, addiction, depression, relationship issues, and family issues.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Heterosexual clinicians need to take the time and care, if they are going to work with queer and trans clients, to become competent in our lives. And I &lt;em&gt;do not &lt;/em&gt;mean a two-hour CEU training on the LGBTQ+ Community. Read books by queer and trans authors! Watch films by us. Seek out supervision from queer and trans therapists! It really is that simple. Immerse yourselves in our lives, our culture, respectfully.&lt;/p&gt;
+
+
+&lt;p&gt;If you are a client reading this and realizing you may be ready for a change in your therapy, the final chapter of my new book &lt;em&gt;Healing the Oppressed Body: A Therapeutic Guide for Radical Self-Liberation&lt;/em&gt; is devoted to questions you can ask yourself, your current therapist, and a new therapist to make sure you get what you need right now on your healing journey.&lt;/p&gt;
+
+            
+      &lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 24px 0 12px;&quot; /&gt;
+      &lt;p style=&quot;font-size: 0.85em; color: #888;&quot;&gt;
+        &lt;a href=&quot;https://www.psychologytoday.com/us/blog/healing-the-oppressed-body/202603/why-queer-clients-need-queer-therapists&quot; target=&quot;_blank&quot;&gt;Read the original article on Psychology Today →&lt;/a&gt;
+      &lt;/p&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-shvets-production-7176296.jpg?itok=1mBv-ZvT" />
+      <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-shvets-production-7176296.jpg?itok=1mBv-ZvT" type="image/jpeg" />
+    </item>
+    <item>
+      <title>You Don&apos;t Have to Earn Self-Care</title>
+      <link>https://www.psychologytoday.com/us/blog/you-are-enough/202603/you-dont-have-to-earn-self-care</link>
+      <description>&lt;p&gt;&lt;img alt=&quot;Julie Radico Psy.D. ABPP&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-01/Headshot__Radico-removebg-preview.jpg?itok=MTMHpbcU&quot; style=&quot;border-radius: 6px;&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Guilt&lt;/strong&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 1.6em; margin-bottom: 4px;&quot;&gt;You Don&apos;t Have to Earn Self-Care&lt;/h1&gt;&lt;h2 style=&quot;font-size: 1.1em; color: #444; font-weight: normal; margin-top: 0;&quot;&gt;Don&apos;t let guilt stop you from caring for yourself.&lt;/h2&gt;&lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Posted March 6, 2026&lt;/p&gt;&lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 16px 0;&quot; /&gt;
+          &lt;div style=&quot;background: #f0f4ff; border-left: 4px solid #3a5bd9; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0;&quot;&gt;
+            &lt;strong style=&quot;display: block; margin-bottom: 8px; font-size: 1em;&quot;&gt;Key points&lt;/strong&gt;
+            &lt;ul style=&quot;margin: 0; padding-left: 20px;&quot;&gt;
+              &lt;li style=&quot;margin-bottom: 6px;&quot;&gt;You don&apos;t need to be productive enough to earn self-care.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;If you have minimal opportunities to engage in self-care then consider creating a self-care menu.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Notice when you guilt yourself for not engaging in self-care.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+                    &lt;p&gt;Self-care is an important part of life. You engage in basic self-care each day when you eat, bathe, and sleep. It&apos;s imperative that you find time for these activities while also engaging in additional healthy activities that help you manage stress and feel recharged. &lt;/p&gt;
+&lt;h2&gt;Prioritize Time for Self-Care&lt;/h2&gt;
+&lt;div class=&quot;insertArea ck-widget&quot;&gt;
+&lt;div class=&quot;image-article-inline-half&quot;&gt;
+&lt;div class=&quot;insert-inner&quot;&gt;
+&lt;div class=&quot;insert-image&quot;&gt;&lt;img alt=&quot; Aleksandar Cvetanovic / Unsplash&quot; class=&quot;image-article_inline_half_caption&quot; height=&quot;213&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/aleksandar-cvetanovic-A7nK49HCqSI-unsplash.jpg?itok=c7UR4Pcm&quot; title=&quot; Aleksandar Cvetanovic / Unsplash&quot; width=&quot;320&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;caption&quot;&gt; &lt;/div&gt;
+&lt;div class=&quot;insertArea--origin subtext&quot;&gt;Source: Aleksandar Cvetanovic / Unsplash&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;You are worthy of self-care. Self-care is not a selfish activity. There is a reason you are instructed to put your oxygen mask on first during a flight. Because if you are running out of air, you can&apos;t help others. You can also think about it as refilling your cup.&lt;/p&gt;
+&lt;p&gt;Imagine that the energy you have for each day is the water inside of a cup. If you spend you day pouring your water into the cups of others (for example, caring for family, managing the house, and working at your job) you might find that your cup is empty when you go to get a sip of water. You then are running on empty and have nothing left to give to yourself or those around you.&lt;/p&gt;
+
+&lt;p&gt;If you are still trying to convince yourself about prioritizing self-care, then consider how it can help you have more bandwidth at home and work. If you feel better rested, you will likely complete tasks more quickly and think more clearly. Overall, though, it&apos;s important for you to recognize and believe that you don&apos;t need to be productive enough to earn self-care.&lt;/p&gt;
+
+&lt;h2&gt;Define Self-Care For Yourself&lt;/h2&gt;
+&lt;p&gt;What are the activities that promote your feelings of health, and that during and/or after help you feel recharged/restored? &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To gauge the impact of each activity and identify what will go in your self-care toolkit, ask yourself: &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How did this activity help me feel recharged?&lt;/li&gt;
+&lt;li&gt;How did this activity help me feel healthy?&lt;/li&gt;
+&lt;li&gt;How did this activity help me feel grounded and calm?&lt;/li&gt;
+&lt;li&gt;How did this activity help me feel less overwhelmed? &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Your self-care will be unique to you. You may feel refueled by playing video games, while others do not. You may find running recharging for you, while others prefer to walk. Don’t let self-criticism or social comparison stop you from engaging in self-care that feels healthy to you. &lt;/p&gt;
+&lt;p&gt;As long as your self-care activities are not harmful to yourself or others, then the only thing that matters is that they are effective for you. Some people get refueled by being in a quiet space, while others want to be immersed in a social gathering. You may also find both of these activities fulfilling based on what you need at any given time. Continually check in with yourself to care for yourself in a way that feels healthiest for that time. &lt;/p&gt;
+&lt;div class=&quot;pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block&quot; id=&quot;block-adblock-18&quot;&gt;
+  
+    
+      &lt;div class=&quot;pt-ad--container pt-ad-show-text&quot;&gt;
+      &lt;div class=&quot;pt-ad--text&quot;&gt;
+      &lt;span&gt;article continues after advertisement&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;pt-ad--content&quot; id=&quot;div-gpt-ad-1404853927369-9&quot;&gt;
+    
+  &lt;div id=&quot;google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+
+&lt;h2&gt;Schedule Self-Care and Protect This Time on Your Calendar&lt;/h2&gt;
+&lt;p&gt;Notice if you schedule time for self-care (for example, catching up with friends, going to the gym, listening to a podcast) and then continually give up that time for the needs of others. There are certainly life events for which you may need to push off self-care; however, notice if you have a pattern of delaying activities that serve your emotional, mental, physical, and spiritual health. Most of the time, the interfering event can wait. You just need to give yourself permission to let it wait. &lt;/p&gt;
+
+&lt;p&gt;Take a moment to schedule a self-care activity in the next week. This could be an activity that takes hours (for example, watching a movie) or minutes (for example, reading the first chapter in a new book). &lt;/p&gt;
+&lt;h2&gt;Create a Self-Care Menu&lt;/h2&gt;
+&lt;p&gt;If you have minimal opportunities to engage in self-care, then consider creating a self-care menu. Identify several different activities that help you feel refueled and create a rotation. So each time you engage in self-care, you (1) don&apos;t have to spend a lot of time thinking about what you could do and (2) can alternate a different activity each time, so you feel enriched in multiple areas over time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Considering activities..&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To do alone.&lt;/li&gt;
+&lt;li&gt;To do with others.&lt;/li&gt;
+&lt;li&gt;That can be done quickly (under 5 minutes).&lt;/li&gt;
+&lt;li&gt;That take more time.&lt;/li&gt;
+&lt;li&gt;That require prework (gathering supplies, finding the community or class).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Address Feelings of Guilt&lt;/h2&gt;
+&lt;p&gt;Because self-care is important and has many different levels, from imperative (i.e., eating and sleeping) to enriching but not always imperative (for example, writing a poem), guilt can surround the topic. Notice when you guilt yourself for not engaging in self-care (for example, getting enough sleep) or when you engage in too much self-care (for example, watching a TV show when you could have been doing chores or sleeping). There are many ways guilt can show up around self-care. Notice when this happens. Catch the negative thoughts, especially self-criticism and &quot;shoulds.&quot; As with most things in life, the key is finding a healthy balance. You need to find ways to refill your cup, so that you can care for others and yourself. &lt;/p&gt;
+
+
+&lt;p&gt;&lt;em&gt;To continue exploring this topic, check out this podcast episode by Dr. Stacety Gedeon and me. &lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;video-embed-field-provider-youtube video-embed-field-responsive-video&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block&quot; id=&quot;block-adblock-19&quot;&gt;
+  
+    
+      &lt;div class=&quot;pt-ad--container pt-ad-show-text&quot;&gt;
+      &lt;div class=&quot;pt-ad--text&quot;&gt;
+      &lt;span&gt;article continues after advertisement&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;pt-ad--content&quot; id=&quot;div-gpt-ad-1456244145486-0&quot;&gt;
+    
+  &lt;div id=&quot;google_ads_iframe_/1032688/300x250_in-content_0__container__&quot;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+
+            
+      &lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 24px 0 12px;&quot; /&gt;
+      &lt;p style=&quot;font-size: 0.85em; color: #888;&quot;&gt;
+        &lt;a href=&quot;https://www.psychologytoday.com/us/blog/you-are-enough/202603/you-dont-have-to-earn-self-care&quot; target=&quot;_blank&quot;&gt;Read the original article on Psychology Today →&lt;/a&gt;
+      &lt;/p&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-03/aleksandar-cvetanovic-A7nK49HCqSI-unsplash.jpg?itok=W6KsIUmf" />
+      <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-03/aleksandar-cvetanovic-A7nK49HCqSI-unsplash.jpg?itok=W6KsIUmf" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Unconscious Plagiarism: Fact or Fiction?</title>
+      <link>https://www.psychologytoday.com/us/blog/small-talk-and-big-questions/202603/unconscious-plagiarism-fact-or-fiction</link>
+      <description>&lt;p&gt;&lt;img alt=&quot;Roger Kreuz Ph.D.&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-04/Kreuz_headshot-removebg-preview.png.jpg?itok=5Y0T9uaw&quot; style=&quot;border-radius: 6px;&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Memory&lt;/strong&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 1.6em; margin-bottom: 4px;&quot;&gt;Unconscious Plagiarism: Fact or Fiction?&lt;/h1&gt;&lt;h2 style=&quot;font-size: 1.1em; color: #444; font-weight: normal; margin-top: 0;&quot;&gt;Can artists appropriate without awareness? What does science, and the law, say?&lt;/h2&gt;&lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Posted March 6, 2026&lt;/p&gt;&lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 16px 0;&quot; /&gt;
+                    &lt;div class=&quot;insertArea ck-widget&quot;&gt;
+&lt;div class=&quot;image-article-inline-half&quot;&gt;
+&lt;div class=&quot;insert-inner&quot;&gt;
+&lt;div class=&quot;insert-image&quot;&gt;&lt;img alt=&quot;Great minds can think alike . . . or unconsciously borrow ideas&quot; class=&quot;image-article_inline_half_caption&quot; height=&quot;320&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/Grok.jpg?itok=7bvJjZdU&quot; title=&quot;aAI / Grok Imagine&quot; width=&quot;320&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;caption&quot;&gt;Great minds can think alike . . . or unconsciously borrow ideas&lt;/div&gt;
+&lt;div class=&quot;insertArea--origin subtext&quot;&gt;Source: aAI / Grok Imagine&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Mark Twain accused himself of it. So did Rod Stewart, Robert Louis Stevenson, and George Harrison. &lt;/p&gt;
+&lt;p&gt;When confronted with evidence of a strong resemblance between their own work and the creations of others, they defended themselves in the same way, claiming to have appropriated unwittingly and “unconsciously.”&lt;/p&gt;
+
+&lt;p&gt;But is unconscious plagiarism a real phenomenon, or is it simply an excuse for carelessness, or even outright theft?&lt;/p&gt;
+&lt;p&gt;In conducting research for my new book, &lt;a href=&quot;https://www.cambridge.org/core/books/strikingly-similar/74F41252FB6211269473BB38E0588A01#fndtn-information&quot;&gt;&lt;em&gt;Strikingly Similar: Plagiarism and Appropriation from Chaucer to Chatbots&lt;/em&gt;&lt;/a&gt;, I examined over four thousand claims of appropriation, infringement, and plagiarism. I was struck by how often authors, songwriters, and other artists expressed astonishment when these similarities were pointed out to them.&lt;/p&gt;
+
+&lt;h2&gt;Resemblances Noted&lt;/h2&gt;
+&lt;p&gt;In Twain’s case, the issue was the similarity between the dedication for his &lt;em&gt;Innocents Abroad&lt;/em&gt; (1869) and the inscription in Oliver Wendell Holmes’s &lt;em&gt;Songs in Many Keys&lt;/em&gt; (1862)—a book that Twain knew well. A friend pointed out the resemblance, and Twain would later publicly out himself at a dinner held in Holmes’s honor.&lt;/p&gt;
+
+&lt;p&gt;A decade after penning &lt;em&gt;Treasure Island&lt;/em&gt; (1883), Robert Louis Stevenson noted—with a fair degree of dismay—a striking similarity between elements of his book and details mentioned in Washington Irving’s &lt;em&gt;Tales of a Traveler&lt;/em&gt; (1824).&lt;/p&gt;
+&lt;p&gt;In Rod Stewart’s case, it was the strong resemblance between his “Da Ya Think I’m Sexy” (1978) and the Brazilian artist Jorge Ben Jor’s song “Taj Mahal” (1977). In his autobiography, Stewart speculated that he had heard “Taj Mahal” during the Carnaval do Rio de Janeiro, when Ben Jor’s song was getting massive airplay.&lt;/p&gt;
+
+&lt;p&gt;Most famously, Harrison released “My Sweet Lord” in 1978 but was taken to task for appropriating the Chiffons’ “He’s So Fine,” which dropped in 1963. The song was a massive hit for the girl group, and as a fellow musician, Harrison undoubtedly heard it many times.&lt;/p&gt;
+&lt;p&gt;If we take these artists at their word, and accept that their copying was unintentional, is there any evidence that appropriation can occur without conscious awareness?&lt;/p&gt;
+
+&lt;h2&gt;Creating Plagiarism in the Lab&lt;/h2&gt;
+&lt;p&gt;Psychologists refer to the phenomenon as cryptomnesia—a memory glitch that most of us have experienced. Perhaps you’ve told a friend a humorous story, only to have your friend indignantly reply that they had told &lt;em&gt;you&lt;/em&gt; that story previously.&lt;/p&gt;
+&lt;p&gt;Can this sort of phenomenon be studied experimentally? In research conducted by Alan Brown and Dana Murphy, participants played a game in which they took turns coming up with examples of categories, such as “articles of clothing” and “musical instruments.” The participants worked in small groups, generating words like “jacket” or “guitar,” but were warned not to offer up any term previously mentioned by other players (Brown &amp;amp; Murphy, 1989).&lt;/p&gt;
+
+&lt;p&gt;After several rounds of the game, the participants were asked to recall the words that they themselves had generated and were also asked to generate four new items that no one else had mentioned. Even when asked if they were “positive” that the items they listed were new, between 30% and 50% of these terms had, in fact, been proffered by another participant.&lt;/p&gt;
+
+&lt;p&gt;In a later study, subjects played a similar game and had to think of novel uses for familiar objects (such as “a watering can” for “shoe”). They returned three months later and were asked to recall the uses they had generated earlier, as well as new uses that no one had mentioned previously. The researchers found that rates of unconscious plagiarism increased after this delay (Stark &amp;amp; Perfect, 2007). So at least in these limited experimental contexts, the phenomenon has been shown to have some basis in reality.&lt;/p&gt;
+
+&lt;h2&gt;Fear of Unconscious Plagiarism&lt;/h2&gt;
+&lt;p&gt;Writers and musicians themselves are all too aware of this possibility. For example, Margit Sandemo, the Scandinavian author who wrote dozens of novels, told an interviewer that she read much less as she got older, lest she unconsciously appropriate story ideas or other elements from another writer.&lt;/p&gt;
+
+
+
+  
+
+
+&lt;p&gt;Thomas Shapcott, an Australian writer, originally wanted to be a composer. But as a teen, he discovered he had unconsciously plagiarized a composition by Ernst Bloch for his own string quartet. This dispiriting realization led him to abandon composition and to become a tax accountant, although he later achieved artistic prominence as a poet and a novelist.&lt;/p&gt;
+
+&lt;h2&gt;Forgiven . . . or Fined?&lt;/h2&gt;
+&lt;p&gt;The consequences for unconscious plagiarism vary significantly, as we see if we return to the four men mentioned earlier. Twain was forgiven by Holmes, who magnanimously wrote that “we all unconsciously work over ideas gathered in reading and hearing, imagining they were original with ourselves” (Twain, 1910). Robert Louis Stevenson made his confession a few months before his death in 1894, and this admission did nothing to blunt the popularity of his coming-of age novel.&lt;/p&gt;
+
+&lt;p&gt;The consequences for the two musicians, however, were rather different.&lt;/p&gt;
+&lt;p&gt;Ben Jor initiated an infringement suit against Stewart, but the case was settled when Stewart agreed to donate his royalties from “Da Ya Think I’m Sexy” to UNICEF.&lt;/p&gt;
+&lt;p&gt;Harrison was involved in lengthy litigation initiated by the rights holder for “He’s So Fine.” Five years after the suit was filed, Harrison finally had his day in court and had to admit he was familiar with the Chiffons’ best-selling recording. The judge in the case ruled against him, stating that “This is, under the law, infringement of copyright, and is no less so even though subconsciously accomplished” (&lt;em&gt;Bright Tunes Music Corp. v. Harrisongs Music&lt;/em&gt;, 1976).&lt;/p&gt;
+
+&lt;p&gt;The former Beatle was initially ordered to pay over $2 million in damages, but this was later reduced to $587,000 in 1981 (over $2 million today). The case wasn’t finally settled until 1998, and just three years before Harrison’s death at age 58.&lt;/p&gt;
+&lt;p&gt;In short, unintentional and unconscious plagiarism does seem to be a real phenomenon, but as Harrison and others have discovered, it is a defense that offers no legal protection—and the consequences can be costly.&lt;/p&gt;
+
+            
+      &lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 24px 0 12px;&quot; /&gt;
+      &lt;p style=&quot;font-size: 0.85em; color: #888;&quot;&gt;
+        &lt;a href=&quot;https://www.psychologytoday.com/us/blog/small-talk-and-big-questions/202603/unconscious-plagiarism-fact-or-fiction&quot; target=&quot;_blank&quot;&gt;Read the original article on Psychology Today →&lt;/a&gt;
+      &lt;/p&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/Grok.jpg?itok=nNr_OhAn" />
+      <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/Grok.jpg?itok=nNr_OhAn" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Two Solutions for When You&apos;re Feeling Insecurely Attached</title>
+      <link>https://www.psychologytoday.com/us/blog/closer-encounters/202603/two-solutions-for-when-youre-feeling-insecurely-attached</link>
+      <description>&lt;p&gt;&lt;img alt=&quot;Huntington&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-08/Charlie%20Huntington.png.jpg?itok=Ttgf6UhS&quot; style=&quot;border-radius: 6px;&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Attachment&lt;/strong&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 1.6em; margin-bottom: 4px;&quot;&gt;Two Solutions for When You&apos;re Feeling Insecurely Attached&lt;/h1&gt;&lt;h2 style=&quot;font-size: 1.1em; color: #444; font-weight: normal; margin-top: 0;&quot;&gt;Different activities can help you handle anxious versus avoidant feelings.&lt;/h2&gt;&lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Posted March 6, 2026&lt;/p&gt;&lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 16px 0;&quot; /&gt;
+          &lt;div style=&quot;background: #f0f4ff; border-left: 4px solid #3a5bd9; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0;&quot;&gt;
+            &lt;strong style=&quot;display: block; margin-bottom: 8px; font-size: 1em;&quot;&gt;Key points&lt;/strong&gt;
+            &lt;ul style=&quot;margin: 0; padding-left: 20px;&quot;&gt;
+              &lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Avoidantly attached people fear too much closeness, while anxiously attached people fear being abandoned.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Different activities might help anxiously versus avoidantly attached people feel good in their relationships.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Avoidant people feel better about their relationship after engaging in novel activities with their partners.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Engaging in familiar, comfortable activities helps anxious people feel more secure in their relationships.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+                    &lt;p&gt;As human beings, we are always looking for that Goldilocks “just right” sensation: Not too cold, not too warm. Neither hungry nor overly full. Not bored, but not stressed out either. The same principle applies to our romantic relationships — we want to feel just the right amount of close to our partners.&lt;/p&gt;
+
+&lt;p&gt;For all of us, how much closeness we want shifts somewhat from hour to hour, or day to day. That said, many of us consistently feel that our partner is either too close or not close enough for comfort. Psychologists call these patterns avoidant and anxious attachment, respectively. When people are very high in avoidant attachment, they typically fear getting too close and want lots of space; people very high in anxious attachment usually fear being abandoned and want reassurance and more connection. Being high in either of these types of insecure attachment leads to more challenging and less satisfying relationships on average (Mikulincer &amp;amp; Shaver, 2012).&lt;/p&gt;
+
+&lt;p&gt;Lots of couples run into trouble trying to manage these dynamics. How can we still spend time together when you want space? How can you reassure me that you’re committed and that our relationship is doing well? A recent study by relationship scientists – yes, that’s what they call themselves – offers some helpful answers.&lt;/p&gt;
+
+&lt;p&gt;Schrage et al. (2026) compiled data from three different daily diary studies – a common research method where participants provide data each day for at least a week. In this case, participants reported on the kinds of activities they did with their partners every day for three weeks. Then, the researchers looked at whether people’s attachment styles – how anxious or avoidant they are – influenced how the activities they did together made them feel about their relationships. They hypothesized that the activities that promoted relationship satisfaction for people who were avoidantly attached would be different from the activities that made more anxiously attached people feel better about the relationship.&lt;/p&gt;
+
+&lt;p&gt;And that’s just what the results showed. For people who were more avoidantly attached, spending time together improved their satisfaction with the relationship if they engaged with their partner in more novel and exciting experiences. By contrast, people who were more anxiously attached felt better about their relationships after engaging in more familiar and comfortable activities together.&lt;/p&gt;
+
+&lt;p&gt;Why would these activities affect people so differently? The authors reason that the new and engaging experiences help avoidant people feel like they are growing and expanding their sense of self (McIntyre et al., 2024), and since they are having that expansive and rewarding experience with their partner, they feel better about the relationship (Gere et al., 2013). At the same time, for a person who is more anxiously attached, doing familiar things together sends the signal that the relationship has a reassuring routine and consistency to it.&lt;/p&gt;
+
+&lt;p&gt;You don’t need to know your attachment style for this research to be useful to you. In any given moment, if you’re feeling closer to your partner than you want to feel, but taking space from them isn’t an option, maybe you can find a way to do something novel together. It could be anything from trying a new recipe to planning a trip to an unfamiliar place. On the other hand, if you’re feeling anxious in the relationship and wanting to know your relationship is solid, suggesting a familiar activity – like watching your favorite show together – just might give you the reassurance you’re looking for.&lt;/p&gt;
+
+
+            
+      &lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 24px 0 12px;&quot; /&gt;
+      &lt;p style=&quot;font-size: 0.85em; color: #888;&quot;&gt;
+        &lt;a href=&quot;https://www.psychologytoday.com/us/blog/closer-encounters/202603/two-solutions-for-when-youre-feeling-insecurely-attached&quot; target=&quot;_blank&quot;&gt;Read the original article on Psychology Today →&lt;/a&gt;
+      &lt;/p&gt;</description>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <media:thumbnail url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-trinitykubassek-246367.jpg?itok=jgJ26UUM" />
+      <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-trinitykubassek-246367.jpg?itok=jgJ26UUM" type="image/jpeg" />
+    </item>
+    <item>
       <title>Tylenol orders in pregnant people plummeted after Trump falsely linked the medicine to autism</title>
       <link>https://www.scientificamerican.com/article/tylenol-orders-in-pregnant-people-plummeted-after-trump-falsely-linked-the/</link>
       <description>&lt;p&gt;An analysis found that, following Trump&amp;rsquo;s claim that acetaminophen was linked to autism, orders for the drug for pregnant patients in emergency rooms dropped, while the number of children prescribed an unproven autism treatment increased&lt;/p&gt;</description>
@@ -20861,386 +21233,6 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
       <media:thumbnail url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-elly-fairytale-4008734.jpg?itok=CQcyvEJY" />
       <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-elly-fairytale-4008734.jpg?itok=CQcyvEJY" type="image/jpeg" />
-    </item>
-    <item>
-      <title>The Couples Who Fight Well, Love Well</title>
-      <link>https://www.psychologytoday.com/us/blog/the-wisdom-of-anger/202602/the-couples-who-fight-well-love-well</link>
-      <description>&lt;p&gt;&lt;img alt=&quot;Moshe Ratson MBA, MFT&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-02/Moshe%20Ratson.png.jpg?itok=MBy8qAOB&quot; style=&quot;border-radius: 6px;&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Relationships&lt;/strong&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 1.6em; margin-bottom: 4px;&quot;&gt;The Couples Who Fight Well, Love Well&lt;/h1&gt;&lt;h2 style=&quot;font-size: 1.1em; color: #444; font-weight: normal; margin-top: 0;&quot;&gt;Why conflict and repair are the true markers of intimacy.&lt;/h2&gt;&lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Posted February 27, 2026&lt;/p&gt;&lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 16px 0;&quot; /&gt;
-          &lt;div style=&quot;background: #f0f4ff; border-left: 4px solid #3a5bd9; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0;&quot;&gt;
-            &lt;strong style=&quot;display: block; margin-bottom: 8px; font-size: 1em;&quot;&gt;Key points&lt;/strong&gt;
-            &lt;ul style=&quot;margin: 0; padding-left: 20px;&quot;&gt;
-              &lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Conflict is not a sign your relationship is failing, but a sign that it’s alive.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;The real danger to love isn’t conflict or fighting, it’s avoidance and indifference.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Most arguments are protests for connection, not attacks on a partner.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;How you fight and repair determines the depth, passion, and resilience of your love.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/div&gt;
-                    &lt;div class=&quot;insertArea ck-widget&quot;&gt;
-&lt;div class=&quot;image-article-inline-half&quot;&gt;
-&lt;div class=&quot;insert-inner&quot;&gt;
-&lt;div class=&quot;insert-image&quot;&gt;&lt;img alt=&quot;AI Gerated Image by M. Ratson&quot; class=&quot;image-article_inline_half_caption&quot; height=&quot;180&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/Conflict.jpg?itok=qntKtH4V&quot; title=&quot;AI Gerated Image by M. Ratson&quot; width=&quot;320&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;caption&quot;&gt; &lt;/div&gt;
-&lt;div class=&quot;insertArea--origin subtext&quot;&gt;Source: AI Gerated Image by M. Ratson&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Many couples who come into my office are worried about how much they fight. They say, &lt;em&gt;“We argue all the time.” “We disagree about everything.” “Healthy couples don’t fight like this, right?” “Maybe we’re just incompatible.”&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;But conflict is unavoidable. Couples who never fight are not necessarily secure or happy. Two individuals naturally have different needs, wants, and desires. Often, if they don’t argue, they are avoiding something.&lt;/p&gt;
-
-&lt;p&gt;Real intimacy is not about peace and quiet; it is about the ability to embrace differences, withstand tension, and be flexible enough to contain conflict and transform it into something greater. The fantasy that love should be calm, seamless, and perpetually harmonious has quietly damaged modern relationships. We have confused peace with health. We have mistaken the absence of conflict for the presence of connection. We have avoided conflict at the price of growth. &lt;/p&gt;
-
-&lt;p&gt;But conflict is not the opposite of love. Indifference is. I would even argue that one of the surest ways to deepen love is through conflict. When two people care deeply, friction is inevitable. Two histories, two nervous systems, two sets of values, and two evolving individuals cannot share space without occasionally colliding. The question is not whether couples will experience conflict. The real question is whether they know how to use it.&lt;/p&gt;
-
-&lt;p&gt;Handled poorly, conflict destroys trust. Handled consciously, with positive intention, conflict becomes the engine of personal and relational growth.&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Conflict as a Growth Edge&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Most arguments are not about content. They are about longing. The fight about the dishes is rarely about the dishes. It is about feeling unsupported. The argument about time is rarely about schedules. It is about feeling unchosen. The disagreement about tone is often about feeling disrespected. &lt;/p&gt;
-
-&lt;p&gt;Underneath conflict and uncomfortable emotions is usually a protest for connection. A desire to challenge the status quo and bring a greater level of harmony.&lt;/p&gt;
-&lt;p&gt;When we reframe conflict this way, something powerful happens. Instead of seeing our partner as the adversary, we begin to see the unmet need beneath the intensity. We begin to recognize that tension is often an attempt (however awkward and unsuccessful) to restore closeness and agreement. It is an attempt to fulfill an unmet need within the relationship.&lt;/p&gt;
-
-&lt;p&gt;Conflict reveals expectations and values, and clarifies boundaries. It forces differentiation. And differentiation is essential for intimacy and authenticity. Desire and being alive require separateness. If two partners never disrupt each other, never challenge each other, never assert themselves, they may preserve peace, but at the cost of vitality.&lt;/p&gt;
-
-&lt;p&gt;In addition, when couples suppress disagreement to maintain peace, resentment grows quietly. They shrink themselves to fit the relationship. They trade authenticity for stability. Over time, the relationship becomes calm but emotionally flat. Healthy conflict interrupts that flattening. It says, &lt;em&gt;“This matters to me.” I desire that change with you.”&lt;/em&gt; &lt;em&gt;“Let’s work that out with passion and care.”&lt;/em&gt; When handled with maturity, conflict does not threaten connection. It strengthens it.&lt;/p&gt;
-
-
-&lt;h2&gt;&lt;strong&gt;The Dialectic of “I” and “We”&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;At the heart of most conflict is a deeper polarity: the tension between autonomy and connection. Every relationship lives in this dialectic. It challenges the ideas of closeness, freedom, safety, aliveness, stability, and growth. These desires do not always align neatly. In fact, they collide.&lt;/p&gt;
-
-&lt;p&gt;If a relationship demands constant harmony, authenticity suffers. One partner may silence their needs to avoid rocking the boat. On the surface, things look stable. Underneath, frustration accumulates and aliveness fades. If a relationship prioritizes individuality without regard for connection, emotional safety erodes. Each partner protects their autonomy, but intimacy weakens.&lt;/p&gt;
-
-
-
-  
-
-
-&lt;p&gt;Mature love lives between these poles with care for all. It allows both partners to say, &lt;em&gt;“This is who I am,”&lt;/em&gt; without abandoning, shaming, or overpowering the other. It tolerates tension without rushing to eliminate it. Conflict often erupts when this balance is disrupted. One partner may feel overwhelmed or abandoned. One may need space, and the other demands reassurance. These are not signs of incompatibility. They are signs that the relationship is negotiating the infinite tension between “I” and “We.”&lt;/p&gt;
-
-&lt;p&gt;When couples learn to see conflict through this lens, they stop asking, &lt;em&gt;“Who is right?”&lt;/em&gt; They start asking, &lt;em&gt;“What are we trying to protect?” &lt;/em&gt;They begin exploring new ways to create a greater level of harmony between all parties involved, including their internal parts. Often, one partner is protecting autonomy. The other is protecting connection. Both are legitimate. Both are vulnerable.&lt;/p&gt;
-
-&lt;p&gt;The work of mature love is to hold it consciously with compassion, while gently pushing ourselves to grow, change, and expand into a deeper level of love and harmony.&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;The Power of Repair&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;While conflict is inevitable, repair is essential. Healthy, successful couples are defined by their ability to repair. Repair is more than an apology. It is humility in action. It is the nervous system softening.&lt;br /&gt;It is the ego stepping aside for the sake of connection. Repair might sound like: &lt;em&gt;“I am sorry, I got defensive.” “That came out harsher than I intended.” “I see how that hurt you.” “Can we start over with care?”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Love is measured by how sincerely we return, and every successful repair builds trust capital. It communicates: &lt;em&gt;“Even when we lose our footing, I am willing to come back to you.”&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Over time, this creates emotional safety. Partners become less afraid of conflict because they trust that disconnection is temporary. They trust that tension does not mean abandonment. They trust that argument and frustration does not mean the relationship is collapsing. When repair is absent, conflict becomes dangerous. Each argument leaves a residue. Hurt accumulates. Distance grows. When repair is present, conflict becomes metabolized. The relationship expands its capacity to handle intensity. It becomes more elastic.&lt;/p&gt;
-
-&lt;p&gt;Paradoxically, couples who repair well, especially after a conflict, often feel more secure. They have experienced rupture and survived it. They have walked to the edge and returned. That experience deepens trust in a way that perpetual harmony never could.&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Conflict as Catalyst for Expansion&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Growth requires friction. This is a universal truth, and it is true in love. Without conflict, couples avoid difficult conversations. They sidestep sensitive topics. They tolerate small disappointments. They bury resentments. Over time, what looks like peace is actually emotional stagnation. Healthy conflict demands development. It clarifies what matters. It exposes patterns. It requires better communication and deeper listening. It invites us to communicate more directly. It challenges assumptions. It stretches emotional capacity.&lt;/p&gt;
-
-&lt;p&gt;A couple that learns to navigate conflict consciously becomes more resilient. They are less threatened by disagreement. They are more willing to take relational risks. They can speak truth without assuming catastrophe. This resilience enhances passion and allows us to live intensely while remaining grounded.&lt;/p&gt;
-
-&lt;p&gt;Safety and aliveness are not opposites. When partners trust that conflict will not destroy the bond, they feel freer to express themselves fully. Authenticity increases. Suppression decreases. Energy returns to the relationship. Conflict, handled with awareness and positive intentions, refines love. It removes illusion. It strips away pretense. It demands honesty. And in that honesty, intimacy deepens.&lt;/p&gt;
-
-&lt;h2&gt;&lt;strong&gt;Love Is Elastic&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;We can abandon the fantasy that love should be perpetually smooth. Mature love is dynamic and elastic. It stretches. It contracts. It ruptures. It repairs. It can tolerate discomfort. It can withstand disagreement. It can survive misunderstanding.&lt;/p&gt;
-&lt;p&gt;Conflict, when guided by awareness and followed by repair, becomes an act of devotion. It says, &lt;em&gt;“This relationship matters enough for me to show up honestly.” &lt;/em&gt;It says&lt;em&gt;, “Our connection is strong enough to hold my truth.” &lt;/em&gt;A relationship that survives conflict with integrity expands. It becomes more honest, more resilient, and more alive.&lt;/p&gt;
-
-&lt;p&gt;Handled consciously, conflict is one of its most powerful teachers.&lt;/p&gt;
-
-            
-      &lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 24px 0 12px;&quot; /&gt;
-      &lt;p style=&quot;font-size: 0.85em; color: #888;&quot;&gt;
-        &lt;a href=&quot;https://www.psychologytoday.com/us/blog/the-wisdom-of-anger/202602/the-couples-who-fight-well-love-well&quot; target=&quot;_blank&quot;&gt;Read the original article on Psychology Today →&lt;/a&gt;
-      &lt;/p&gt;</description>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/Conflict.jpg?itok=xM9Tc8-q" />
-      <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/Conflict.jpg?itok=xM9Tc8-q" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Tinder Calls &apos;Clear Coding&apos; a 2026 Dating Trend</title>
-      <link>https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202602/tinder-calls-clear-coding-a-2026-dating-trend</link>
-      <description>&lt;p&gt;&lt;img alt=&quot;Bruce Y. Lee M.D., M.B.A.&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/bruce_y_lee.png.jpg?itok=5-I4em7x&quot; style=&quot;border-radius: 6px;&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Mating&lt;/strong&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 1.6em; margin-bottom: 4px;&quot;&gt;Tinder Calls &apos;Clear Coding&apos; a 2026 Dating Trend&lt;/h1&gt;&lt;h2 style=&quot;font-size: 1.1em; color: #444; font-weight: normal; margin-top: 0;&quot;&gt;In dating, clear coding means being frank, open, and who you are.&lt;/h2&gt;&lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Posted February 27, 2026&lt;/p&gt;&lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 16px 0;&quot; /&gt;
-          &lt;div style=&quot;background: #f0f4ff; border-left: 4px solid #3a5bd9; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0;&quot;&gt;
-            &lt;strong style=&quot;display: block; margin-bottom: 8px; font-size: 1em;&quot;&gt;Key points&lt;/strong&gt;
-            &lt;ul style=&quot;margin: 0; padding-left: 20px;&quot;&gt;
-              &lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Clear coding in dating means communicating in a clear, accurate manner without hidden meanings or surprises.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;If everyone is clearer on who they are, it will be easier for everyone to find their respective matches.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Clear coding does necessitate overcoming fears of vulnerability, judgment, and the other person tricking you.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/div&gt;
-                    &lt;div class=&quot;insertArea ck-widget&quot;&gt;
-&lt;div class=&quot;image-article-inline-half&quot;&gt;
-&lt;div class=&quot;insert-inner&quot;&gt;
-&lt;div class=&quot;insert-image&quot;&gt;&lt;img alt=&quot;The clear coding dating trend doesn&apos;t mean that you should start bringing your laptop to dates and use some Python script to get the other person to love you..&quot; class=&quot;image-article_inline_half_caption&quot; height=&quot;180&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/pexels-cottonbro-4065137.jpg?itok=QhtuGWv1&quot; title=&quot;Photo by Cottonbro Studio from Pexels&quot; width=&quot;320&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;caption&quot;&gt;The clear coding dating trend doesn&apos;t mean that you should start bringing your laptop to dates and use some Python script to get the other person to love you..&lt;/div&gt;
-&lt;div class=&quot;insertArea--origin subtext&quot;&gt;Source: Photo by Cottonbro Studio from Pexels&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;You may have heard the whole &quot;clear coding&quot; term floating around the dating world. After all, the dating app &lt;a href=&quot;https://www.tinderpressroom.com/2025-12-03-TINDERS-YEAR-IN-SWIPE-TM-2025&quot;&gt;Tinder has listed&lt;/a&gt; clear coding as one of the dating trends for 2026. But while there may be clear reasons to have an interest in clear coding, a question may be whether you and others are ready to get with the program, so to speak. &lt;/p&gt;
-
-&lt;h2&gt;What Is Clear Coding&lt;/h2&gt;
-&lt;p&gt;Clear coding doesn&apos;t mean that you should start bringing your laptop to dates and use some Python script to get the other person to wrap themselves around you. Instead, the term sort of riffs on what a good programmer should be doing when writing computer code. It means communicating in a clear, accurate, readily readable manner without hidden meanings or surprises. You wouldn&apos;t, for example, design a computer program to act as if it&apos;s not interested in a user when it really is. Similarly, in dating, clear coding is about being frank and open about yourself and your interests and intentions. &lt;/p&gt;
-
-&lt;h2&gt;What Are the Benefits of Clear Coding&lt;/h2&gt;
-&lt;p&gt;The potential benefits of clear coding should be, well, clear. If everyone is clearer on who they are and what they want, then it will be easier for everyone to find their respective matches. A historical problem with dating is that many people aren&apos;t really what they appear to be, and how they portray themselves. There can be a lot of game playing. Dating can be like shopping at a supermarket where everything is mislabeled in the wrong aisles and in the wrong packaging, like sausage where the bread is supposed to be.&lt;/p&gt;
-
-&lt;p&gt;Plus, different people have different intentions when it comes to dating. Some are looking for their forever-and-ever person. Others just want some kind of companion for now. And some people are just looking for, surprise, surprise, no more than sex. Therefore, it would help to know each other&apos;s intentions for a proper match. For example, this could help put all the &quot;just want to have sex&quot; people in the same room with each other. &lt;/p&gt;
-
-&lt;div class=&quot;insertArea ck-widget&quot;&gt;
-&lt;div class=&quot;image-article-inline-half&quot;&gt;
-&lt;div class=&quot;insert-inner&quot;&gt;
-&lt;div class=&quot;insert-image&quot;&gt;&lt;img alt=&quot;Clear coding in dating is analogous to writing a good piece of computer code, communicating in a clear, accurate, readily readable manner without hidden meanings or surprises.&quot; class=&quot;image-article_inline_half_caption&quot; height=&quot;213&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/pexels-luis-gomes-166706-546819.jpg?itok=F8MQzix9&quot; title=&quot;Photo by Luis Gomes from Pexels&quot; width=&quot;320&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;caption&quot;&gt;Clear coding in dating is analogous to writing a good piece of computer code, communicating in a clear, accurate, readily readable manner without hidden meanings or surprises.&lt;/div&gt;
-&lt;div class=&quot;insertArea--origin subtext&quot;&gt;Source: Photo by Luis Gomes from Pexels&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h2&gt;What Are the Risks of Clear Coding? &lt;/h2&gt;
-&lt;p&gt;What&apos;s not clear: Even though it&apos;s being called a dating trend, how many people will actually end up sticking to the script of clear coding? Yeah, when it comes to honesty and openness in dating, a lot of people are going to fall well below the C+ level—meaning the grade and not the programming language. &lt;/p&gt;
-
-&lt;p&gt;That&apos;s because being more open and frank in your communications does take some guts and confidence in yourself. You have to overcome fears about being left too exposed, feeling vulnerable, and being judged as too eager, strategic, or even desperate. And to be clear, many people may have a tough time overcoming such fears.&lt;/p&gt;
-
-&lt;p&gt;Another fear is that clear coding becomes a one-sided affair during a date. While you&apos;re being clear and upfront, the other person may be about as clear as mud mixed with Nutella. In fact, the other person may even fake clear coding to get what they want. Yes, surprise, surprise, people can be dishonest about being honest. They might subscribe to sayings like &quot;fake it until you make it,&quot; and &quot;the key to success is sincerity, and if you can fake that, you&apos;ve got it made.&quot; &lt;/p&gt;
-
-
-&lt;h2&gt;Why It Can Help to Give Clear Coding a Try&lt;/h2&gt;
-&lt;p&gt;All that said, don&apos;t let such fears discourage you. Beware of allowing fear to drive your decision-making in anything, with the possible exception of whether to run from a tiger. What if others get judgy on you? What if you get burned here and there by some faker-makers? The potential rewards could far outweigh the risks. &lt;/p&gt;
-
-&lt;p&gt;After all, the best way to get what you want is to be clear about what you want. And a good way to find the right match for you is to be clear about who you are. After all, you wouldn&apos;t walk into a store wanting a pair of pants and ask for a fruitcake instead, expecting salespeople to realize that &quot;fruitcake&quot; is code for something else, would you?&lt;/p&gt;
-
-            
-      &lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 24px 0 12px;&quot; /&gt;
-      &lt;p style=&quot;font-size: 0.85em; color: #888;&quot;&gt;
-        &lt;a href=&quot;https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202602/tinder-calls-clear-coding-a-2026-dating-trend&quot; target=&quot;_blank&quot;&gt;Read the original article on Psychology Today →&lt;/a&gt;
-      &lt;/p&gt;</description>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-cottonbro-4065137.jpg?itok=-gWAAyRX" />
-      <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-cottonbro-4065137.jpg?itok=-gWAAyRX" type="image/jpeg" />
-    </item>
-    <item>
-      <title>When Sleep Banking May Be A Viable Strategy</title>
-      <link>https://www.psychologytoday.com/us/blog/alpha-blog-charlie/202602/when-sleep-banking-may-be-a-viable-strategy</link>
-      <description>&lt;p&gt;&lt;img alt=&quot;Carrie H. Kennedy Ph.D., ABPP&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/ksp_carriekennedy_080b-removebg-preview.jpg?itok=HKKNmreG&quot; style=&quot;border-radius: 6px;&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Sleep&lt;/strong&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 1.6em; margin-bottom: 4px;&quot;&gt;When Sleep Banking May Be A Viable Strategy&lt;/h1&gt;&lt;h2 style=&quot;font-size: 1.1em; color: #444; font-weight: normal; margin-top: 0;&quot;&gt;Sleep banking may be a hedge against upcoming sleep deprivation.&lt;/h2&gt;&lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Posted February 27, 2026&lt;/p&gt;&lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 16px 0;&quot; /&gt;
-                    &lt;p&gt;Fatigue management is a vital consideration for all of us. Being alert when we need to be goes beyond getting good, consistent sleep (though this is obviously a necessity). Think of the times that you became drowsy while driving or had to fight sleep during a boring class. And think about your personal strategies in which you engage when you need to perk up (e.g., get up and walk around, have a cup of coffee, stand in the back of the room, etc.). &lt;/p&gt;
-
-&lt;p&gt;These are quick fixes for short periods of time. However, for some, effective fatigue management goes beyond our normal, everyday challenges with wakefulness. For those that have jobs where various missions or off-cycle work negate their ability to sleep or to sleep enough, more significant and/or tailored strategies are needed.&lt;/p&gt;
-
-&lt;div class=&quot;insertArea ck-widget&quot;&gt;
-&lt;div class=&quot;image-article-inline-half&quot;&gt;
-&lt;div class=&quot;insert-inner&quot;&gt;
-&lt;div class=&quot;insert-image&quot;&gt;&lt;img alt=&quot;Could sleep extension help you when you know you are going to have to be awake for an extended period of time?&quot; class=&quot;image-article_inline_half_caption&quot; height=&quot;180&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/ai-generated-9616731.jpg?itok=y3-uiamd&quot; title=&quot;Image by Koi Roylers from Pixabay&quot; width=&quot;320&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;caption&quot;&gt;Could sleep extension help you when you know you are going to have to be awake for an extended period of time?&lt;/div&gt;
-&lt;div class=&quot;insertArea--origin subtext&quot;&gt;Source: Image by Koi Roylers from Pixabay&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Sleep banking is an interesting notion and one that is getting increased attention. Sleep banking is essentially extending your normal sleep hours in the nights leading up to a known period of sleep deprivation. On the face of it, it appears unlikely banking sleep could counter the decreased alertness and other cognitive decrements that we experience when deprived of sleep, or stop that strong sensation we get when our body wants sleep (i.e., sleep pressure).&lt;/p&gt;
-
-&lt;p&gt; But in 2009 an &lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC2647785/&quot;&gt;Army study&lt;/a&gt; compared people who got their regular hours of sleep for a week to a group that spent 10 hours in bed during those same nights. This was followed by 3 nights of only 3 hours of time in bed allowed for both groups. Surprisingly, the group that had “banked” sleep, performed better on a measure of alertness during the sleep restricted time period and recovered faster from the sleep deprivation.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/26194565/&quot;&gt;Another study&lt;/a&gt; in 2015 found similar results. A group who had 6 nights of extended sleep prior to 21 hours of total sleep deprivation, had improved sustained attention and decreased daytime sleepiness going into the deprivation period as well as during the sleep deprivation period, and recovered from the sleep debt more quickly than the group who engaged in their normal sleep prior to the sleep deprivation period. &lt;/p&gt;
-
-&lt;p&gt;A &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/32016401/&quot;&gt;more recent study&lt;/a&gt; looked at the effects of a week of sleep extension on a 40-hour period of total sleep deprivation in which participants had to make quick decisions during a task with emotional/neutral stimuli and attentional interference. Again, findings suggest that sleep extension prior to sleep deprivation facilitates better decision-making.&lt;/p&gt;
-
-&lt;p&gt;While there is &lt;a href=&quot;https://academic.oup.com/sleep/article/48/12/zsaf250/8321788&quot;&gt;evidence supporting&lt;/a&gt; a potential benefit of sleep banking, there are also &lt;a href=&quot;https://academic.oup.com/sleep/article-abstract/48/12/zsaf251/8239174?redirectedFrom=fulltext&quot;&gt;viable arguments&lt;/a&gt; against the theory. One concern is simply that humans are not designed to sleep when they don’t need sleep, thus the notion of banking does not make physiological sense. And, when you think about trying to force yourself to sleep when you don’t need it, you know that it is difficult. A second argument against the notion of sleep banking is that measurable improvements seen in the studies, were more likely due to the resolution of sleep debt, which also has measurable benefits on cognition and wakefulness.&lt;/p&gt;
-
-
-&lt;p&gt;But back to the original question. Can you bank sleep? And the answer is that we don’t currently know. However, there does seem to be some benefit to sleep extension prior to an upcoming, known period of sleep deprivation. While the jury is out as to the mechanism of action in sleep extension, there is evidence that either the sleep banking or the resolution of sleep debt through sleep extension prior to a period of sleep deprivation may help individuals both during the event and in facilitating recovery afterwards.&lt;/p&gt;
-
-&lt;p&gt;Disclaimer: The information presented in this blog is not a substitute for professional advice or medical treatment. If you believe that you have a sleep disorder or other medical condition, seek consultation with your primary care provider.&lt;/p&gt;
-
-            
-      &lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 24px 0 12px;&quot; /&gt;
-      &lt;p style=&quot;font-size: 0.85em; color: #888;&quot;&gt;
-        &lt;a href=&quot;https://www.psychologytoday.com/us/blog/alpha-blog-charlie/202602/when-sleep-banking-may-be-a-viable-strategy&quot; target=&quot;_blank&quot;&gt;Read the original article on Psychology Today →&lt;/a&gt;
-      &lt;/p&gt;</description>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/ai-generated-9616731.jpg?itok=i2NcU8T4" />
-      <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/ai-generated-9616731.jpg?itok=i2NcU8T4" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Compassion as the Doorway to Forgiveness</title>
-      <link>https://www.psychologytoday.com/us/blog/spiritual-intelligence/202602/compassion-as-the-doorway-to-forgiveness</link>
-      <description>&lt;p&gt;&lt;img alt=&quot;Amram&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-09/Amram.png.jpg?itok=m0bcubY0&quot; style=&quot;border-radius: 6px;&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Forgiveness&lt;/strong&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 1.6em; margin-bottom: 4px;&quot;&gt;Compassion as the Doorway to Forgiveness&lt;/h1&gt;&lt;h2 style=&quot;font-size: 1.1em; color: #444; font-weight: normal; margin-top: 0;&quot;&gt;Why we can’t will ourselves to “forgive and forget.”&lt;/h2&gt;&lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Posted February 27, 2026&lt;/p&gt;&lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 16px 0;&quot; /&gt;
-          &lt;div style=&quot;background: #f0f4ff; border-left: 4px solid #3a5bd9; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0;&quot;&gt;
-            &lt;strong style=&quot;display: block; margin-bottom: 8px; font-size: 1em;&quot;&gt;Key points&lt;/strong&gt;
-            &lt;ul style=&quot;margin: 0; padding-left: 20px;&quot;&gt;
-              &lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Forgiveness often fails because present pain is rooted in unresolved emotional wounds from the past.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Self-compassion shifts the nervous system from threat into safety, creating conditions for healing.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;When we hold our pain with compassion, our hearts open naturally toward ourselves and others.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Forgiveness emerges organically once emotional wounds are fully acknowledged, understood, and integrated.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/div&gt;
-                    &lt;p&gt;“The past is the past!”&lt;/p&gt;
-&lt;p&gt;“Forgive and forget.”&lt;/p&gt;
-&lt;p&gt;“Let bygones be bygones.”&lt;/p&gt;
-&lt;p&gt;Our culture has plenty of platitudes to offer when it comes to forgiving each other’s wrongs. Yet anyone who has lived through betrayal knows the reality is more complex. The process of forgiveness is anything but linear.&lt;/p&gt;
-&lt;p&gt;In my clinical work, I once sat with a couple (whom I will call Peter and Tiana) who had worked hard to rebuild trust in the aftermath of Tiana’s affair two years earlier.&lt;/p&gt;
-
-&lt;p&gt;Peter was glad they were reunited, building a life together, and raising their young son. Yet something unresolved remained for him. He had told Tiana (and himself) that he had forgiven her, but the pain would still surface from time to time without warning.&lt;/p&gt;
-&lt;p&gt;This case study raises a deeper question: If Peter wanted to forgive so badly, why did the hurt remain?&lt;/p&gt;
-
-&lt;h2&gt;The Hidden Roots of Present Pain&lt;/h2&gt;
-&lt;p&gt;Even though all Peter wanted to do is move on from this heartache and pain, I invited him to slow down and be present with it for a moment, encouraging him to explore it.&lt;/p&gt;
-&lt;p&gt;As he did, a memory surfaced from his childhood. Peter recalled overhearing his father tell his mother that they did not need to keep a promise they had made to him (to buy him a bicycle for his birthday) because he was “only a child.”&lt;/p&gt;
-
-&lt;p&gt;Emotionally, this discussion his parents probably didn’t even remember had left a deep imprint on him: the experience of broken trust, of promises that did not hold, of being small and unprotected. The betrayal Peter felt now was not only about the affair; it touched much older wounds.&lt;/p&gt;
-&lt;p&gt;This is often how emotional pain operates. Present events activate earlier emotional templates, and then younger parts of us that are under-resourced to respond, thus amplifying the intensity of our reactions. What appears to be the reactivity of our adult self is really that of our younger, wounded inner-children. &lt;/p&gt;
-
-&lt;h2&gt;The Turning Point: Compassion for the Self&lt;/h2&gt;
-&lt;p&gt;I invited Peter to notice how he was feeling toward that younger version of himself. After a few moments of reflection, his breathing deepened and his posture straightened. He described feeling a warm, radiant sensation in his chest.&lt;/p&gt;
-&lt;p&gt;Soon this feeling strengthened into something more: an unexpected wave of compassion and care for his younger self. He described the sensation as a gentle light, coming from within him yet also surrounding him. It felt grounding, stabilizing, and expansive all at once.&lt;/p&gt;
-
-&lt;p&gt;In that moment, Peter was no longer defined solely by his pain. Instead, he discovered his capacity to tend to it with care. What had been a source of suffering became a chance to offer himself the understanding he had long needed, surprising himself in the process.&lt;/p&gt;
-&lt;p&gt;Compassion, especially self-compassion, changes our relationship to suffering. Instead of defending against pain, being consumed by it, or feeling self-pity and victimization, we can learn to hold it with warmth and understanding.&lt;/p&gt;
-
-&lt;h2&gt;Compassion Naturally Expands&lt;/h2&gt;
-&lt;p&gt;From this place of self-compassion, Peter suddenly found himself feeling compassion for Tiana as well. He didn’t excuse her actions, but he could suddenly understand them within the context of her own feelings of neglect and loneliness during a period when he had been frequently absent.&lt;/p&gt;
-
-
-&lt;p&gt;He also felt compassion for his father, recognizing that his father’s broken promise had emerged from financial anxiety after being laid off from his job, rather than indifference. Importantly, these shifts were not forced. They arose naturally for Peter once compassion had been established within himself.&lt;/p&gt;
-
-&lt;p&gt;This reflects a key psychological truth: Compassion shifts the nervous system from threat into safety, creating the conditions in which our heart can open and forgiveness can take root. And when it comes to long-term benefits, it’s even been proven that self-compassion predicts lower anxiety, depression, rumination, and fear of failure.&lt;a href=&quot;https://evilgodfahim.github.io/pt/feeds/feed.xml#_edn1&quot;&gt;[i]&lt;/a&gt; Meanwhile, forgiveness has been found to improve outcomes for those struggling with PTSD.&lt;a href=&quot;https://evilgodfahim.github.io/pt/feeds/feed.xml#_edn2&quot;&gt;[ii]&lt;/a&gt; &lt;/p&gt;
-
-
-
-  
-
-
-&lt;h2&gt;Forgiveness as an Emergent Process&lt;/h2&gt;
-&lt;p&gt;Forgiveness is often misunderstood as something we must choose through effort or moral discipline. But in reality, while the intention to forgive can be an important ingredient, forgiveness is more often the byproduct of emotional integration. Particularly when it comes to infidelity, recovery must undergo the distinct stages of discovery, decision-making, and rebuilding trust.&lt;a href=&quot;https://evilgodfahim.github.io/pt/feeds/feed.xml#_edn3&quot;&gt;[iii]&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This does not mean forgetting the harm or denying its impact. Rather, it means releasing the emotional constriction around it. In the case of Peter, he learned to no longer experience himself solely as a victim of betrayal. He experienced himself as someone capable of holding pain, his own and others&apos;, understanding it, and moving through it—a much more empowering self-image.&lt;/p&gt;
-
-&lt;h2&gt;Conclusion: Compassion Is the Doorway&lt;/h2&gt;
-&lt;p&gt;Ultimately, forgiveness is not something we can command on demand, nor is it achieved by repeating cultural platitudes or willing ourselves to “move on.” When the emotional wounds beneath the surface are seen, felt, and held with compassion, healing unfolds organically.&lt;/p&gt;
-
-&lt;p&gt;Peter’s healing did not come from forcing himself to absolve Tiana, but from reconnecting with the younger parts of himself that had long carried the wounds of broken trust. By extending compassion inward, he created the inner stability necessary for compassion and forgiveness to emerge on their own.&lt;/p&gt;
-
-&lt;p&gt;This is the secret at the heart of healing: Forgiveness begins not with the other person, but with ourselves. When we learn to meet our own suffering with warmth rather than resistance, the grip of past injuries loosens. We go from victims to powerful, resilient individuals. &lt;a href=&quot;https://evilgodfahim.github.io/pt/feeds/feed.xml#_edn4&quot;&gt;[iv]&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;Through compassion, we reclaim our openhearted aliveness. We won’t erase what happened, but we can transform our relationship to it, alchemizing suffering into connection and care.&lt;br /&gt; &lt;/p&gt;
-
-            
-      &lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 24px 0 12px;&quot; /&gt;
-      &lt;p style=&quot;font-size: 0.85em; color: #888;&quot;&gt;
-        &lt;a href=&quot;https://www.psychologytoday.com/us/blog/spiritual-intelligence/202602/compassion-as-the-doorway-to-forgiveness&quot; target=&quot;_blank&quot;&gt;Read the original article on Psychology Today →&lt;/a&gt;
-      &lt;/p&gt;</description>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-andrew-5255996.jpg?itok=RSliRweC" />
-      <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-andrew-5255996.jpg?itok=RSliRweC" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Compassionate Goals and Parenting</title>
-      <link>https://www.psychologytoday.com/us/blog/your-future-self/202602/compassionate-goals-and-parenting</link>
-      <description>&lt;p&gt;&lt;img alt=&quot;Holly Parker, Ph.D.&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/holly.jpg?itok=ZxdBvdE5&quot; style=&quot;border-radius: 6px;&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Parenting&lt;/strong&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 1.6em; margin-bottom: 4px;&quot;&gt;Compassionate Goals and Parenting&lt;/h1&gt;&lt;h2 style=&quot;font-size: 1.1em; color: #444; font-weight: normal; margin-top: 0;&quot;&gt;New research reveals a possible win-win mindset for parents and kids.&lt;/h2&gt;&lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Posted February 27, 2026&lt;/p&gt;&lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 16px 0;&quot; /&gt;
-          &lt;div style=&quot;background: #f0f4ff; border-left: 4px solid #3a5bd9; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0;&quot;&gt;
-            &lt;strong style=&quot;display: block; margin-bottom: 8px; font-size: 1em;&quot;&gt;Key points&lt;/strong&gt;
-            &lt;ul style=&quot;margin: 0; padding-left: 20px;&quot;&gt;
-              &lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Compassionate goals center on another person&apos;s needs and giving them care.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Self-image goals emphasize how we appear to someone else.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;A new study looked at how compassionate and self-image goals relate to how parents and kids feel and act.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Compassionate goals were linked to greater wellness for parents and better behavior among kids.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/div&gt;
-                    &lt;p&gt;Arguably, being a parent is the most challenging and important job a person can have; it&apos;s a position unlike any other. Needless to say, there’s no designated time you clock on and off the job, and you’re on call unceasingly. There are fervent &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/39649242/&quot;&gt;societal&lt;/a&gt; views abound about how a parent is “supposed” to act, prompting the notion that parents must achieve perfection in their role. Flawlessness? Talk about an impossible standard, not to mention an unimaginable one. (What does perfection even look like anyway?) &lt;/p&gt;
-
-&lt;p&gt;Let’s just name this outright–it’s not fair. I can’t imagine anyone hitting 100% (whatever that means) in any sphere of life all of the time, and certainly not in a role with no “off” button. On top of this, the standard of immaculate parenting appears to sabotage itself (another point of unfairness), as &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/39649242/&quot;&gt;research&lt;/a&gt; reveals a link between feeling urged to be an unblemished parent and engaging in some parenting approaches that are less effective. Is there anything that could help parents shift focus away from being an ideal, flawless parent and toward another viewpoint that might be more sustainable and fulfilling over time?&lt;/p&gt;
-
-&lt;div class=&quot;insertArea ck-widget&quot;&gt;
-&lt;div class=&quot;image-article-inline-half&quot;&gt;
-&lt;div class=&quot;insert-inner&quot;&gt;
-&lt;div class=&quot;insert-image&quot;&gt;&lt;img alt=&quot;Pixabay/Pexels&quot; class=&quot;image-article_inline_half_caption&quot; height=&quot;212&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/pexels-pixabay-51953.jpeg.jpg?itok=x87De-Jk&quot; title=&quot;Pixabay/Pexels&quot; width=&quot;320&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;caption&quot;&gt; &lt;/div&gt;
-&lt;div class=&quot;insertArea--origin subtext&quot;&gt;Source: Pixabay/Pexels&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;In a &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/41642822/&quot;&gt;new study&lt;/a&gt;, researchers looked at how compassionate goals and self-image goals are linked to how parents and their kids feel and behave. When we’re aiming toward compassionate goals in our interactions with someone, we’re trying to be thoughtful and considerate in the interest of being good to that person and advancing their wellness. On the other hand, when we’re going after self-image goals when we’re engaging with another, we’re zeroing in on how we seem to that person and attempting to cultivate or hold onto a favorable impression. How would these goals compare in parenting? &lt;/p&gt;
-
-&lt;p&gt;The researchers gave an example of how a parent might approach their child after a tough interaction. A self-image goal could lead that parent to decide not to say sorry because they’re worried about admitting they made a mistake, whereas a compassionate goal could point the way toward “I’m sorry” out of a desire to engage effectively and mend the disconnect.&lt;/p&gt;
-
-&lt;p&gt;Their study showed that compassionate goals were tied to greater emotional wellness for parents, including reduced nervousness and strain and a greater sense of purpose and contentment. Parents with compassionate goals were also more apt to feel intrigued by their kid’s inner world, and their children were more likely to behave well. On the flip side, the children of parents with self-image goals were less well-behaved. The study’s design can’t tell us that goals cause the feelings and behaviors we’re talking about. Hopefully, later research will clarify that. All the same, it’s still worth considering the potential upsides of giving oneself permission to let go of appearance a little more and focus on giving love, with all its imperfections. &lt;/p&gt;
-
-
-            
-      &lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 24px 0 12px;&quot; /&gt;
-      &lt;p style=&quot;font-size: 0.85em; color: #888;&quot;&gt;
-        &lt;a href=&quot;https://www.psychologytoday.com/us/blog/your-future-self/202602/compassionate-goals-and-parenting&quot; target=&quot;_blank&quot;&gt;Read the original article on Psychology Today →&lt;/a&gt;
-      &lt;/p&gt;</description>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-josh-willink-11499-2274162.jpeg.jpg?itok=PHG-ovG5" />
-      <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-josh-willink-11499-2274162.jpeg.jpg?itok=PHG-ovG5" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Do You Have Difficulty Sustaining Your Exercise Program?</title>
-      <link>https://www.psychologytoday.com/us/blog/fit-femininity/202602/do-you-have-difficulty-sustaining-your-exercise-program</link>
-      <description>&lt;p&gt;&lt;img alt=&quot;Pirkko Markula Ph.D.&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Pirkko-Markula.jpg?itok=YjkAAZ14&quot; style=&quot;border-radius: 6px;&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Health&lt;/strong&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 1.6em; margin-bottom: 4px;&quot;&gt;Do You Have Difficulty Sustaining Your Exercise Program?&lt;/h1&gt;&lt;h2 style=&quot;font-size: 1.1em; color: #444; font-weight: normal; margin-top: 0;&quot;&gt;Let’s ask women who exercise regularly what motivates them to exercise.&lt;/h2&gt;&lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Posted February 27, 2026&lt;/p&gt;&lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 16px 0;&quot; /&gt;
-          &lt;div style=&quot;background: #f0f4ff; border-left: 4px solid #3a5bd9; padding: 12px 16px; margin-bottom: 20px; border-radius: 0 6px 6px 0;&quot;&gt;
-            &lt;strong style=&quot;display: block; margin-bottom: 8px; font-size: 1em;&quot;&gt;Key points&lt;/strong&gt;
-            &lt;ul style=&quot;margin: 0; padding-left: 20px;&quot;&gt;
-              &lt;li style=&quot;margin-bottom: 6px;&quot;&gt;If we are internally motivated, we are likely to stay with an exercise program.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;External pressures create negative feelings toward exercise.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Exercise is empowering, because becoming physically and mentally strong increases self-confidence.&lt;/li&gt;&lt;li style=&quot;margin-bottom: 6px;&quot;&gt;Exercise is time for enjoyment and self-care.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/div&gt;
-                    &lt;p&gt;We all know that it is good to exercise for both physical and psychological health. Many of us have also made a promise to start the new year with regular workouts. But many of us do not manage to persevere for more than a couple of weeks. How do some women maintain their regular exercise regimes? What motivates them to continue when many of us drop out?&lt;/p&gt;
-
-&lt;p&gt;In their research, Cara Deininger, Akorede Teriba, and Megan Foley-Nicpon asked 11 experienced women exercisers (aged between 21 and 55 years) what kept them exercising. These women currently worked out at least five days a week. All weight trained, but also participated in a range of activities such as running, walking, HIIT, yoga, or crossfit.&lt;/p&gt;
-
-&lt;p&gt;The researchers used what they called a phenomenological research design. It helped to understand women’s lived experiences and the meanings they attached to their exercise participation. The results showed several motivations behind maintaining regular fitness regimes.&lt;/p&gt;
-&lt;h2&gt;Enjoyment and happiness&lt;/h2&gt;
-&lt;div class=&quot;insertArea ck-widget&quot;&gt;
-&lt;div class=&quot;image-article-inline-half&quot;&gt;
-&lt;div class=&quot;insert-inner&quot;&gt;
-&lt;div class=&quot;insert-image&quot;&gt;&lt;img alt=&quot;mralpha/Pexels&quot; class=&quot;image-article_inline_half_caption&quot; height=&quot;569&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/pexels-mralpha-13451902%20(1).jpg?itok=AiqrKKHd&quot; title=&quot;mralpha/Pexels&quot; width=&quot;320&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;caption&quot;&gt; &lt;/div&gt;
-&lt;div class=&quot;insertArea--origin subtext&quot;&gt;Source: mralpha/Pexels&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;While the women found value in sustaining a healthy lifestyle to avoid illnesses, they particularly emphasized the mental benefits of exercise. Working out helped to clear the mind and get rid of stress. Some found their exercise sessions almost like therapy. Patricia said: “I can kind of get lost in my thoughts and I think that’s my own therapy session.”&lt;/p&gt;
-
-&lt;p&gt;These exercisers also enjoyed their workouts. They gained self-love through exercise and this created happiness in other parts of their lives. Elizabeth explained: “Now I’ve realized it’s not something that has to be done. It just is something that is enjoyable. It’s a supplement to everything else going on in my life . . . [I] feel like I found my best self.”&lt;/p&gt;
-
-&lt;h2&gt;Finding time for oneself&lt;/h2&gt;
-&lt;p&gt;Exercise was the time that the women devoted themselves. Linda explained that physical exercise was “time that you give yourself, and how can that whole process not be better?&quot;&lt;/p&gt;
-&lt;p&gt;This was empowering: Becoming physically and mentally stronger when taking the time for self-care came with an increased sense of confidence and power.&lt;/p&gt;
-
-&lt;h2&gt;Accountability&lt;/h2&gt;
-&lt;p&gt;The women did, however, emphasize the need to create clear goals and then be &quot;accountable&quot; to oneself for achieving them. Jessica was clear that “you have to put in the work if you want to see changes… it’s just hard work, and I think it’s accountability and just showing up and relying on yourself.” These women also wanted to sweat and raise the heart rates during a successful workout.&lt;/p&gt;
-
-&lt;h2&gt;Internal satisfaction&lt;/h2&gt;
-&lt;div class=&quot;insertArea ck-widget&quot;&gt;
-&lt;div class=&quot;image-article-inline-half&quot;&gt;
-&lt;div class=&quot;insert-inner&quot;&gt;
-&lt;div class=&quot;insert-image&quot;&gt;&lt;img alt=&quot;Angela Roma/Pexels&quot; class=&quot;image-article_inline_half_caption&quot; height=&quot;480&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/pexels-angela-roma-7480087.jpg?itok=aFHQtzC_&quot; title=&quot;Angela Roma/Pexels&quot; width=&quot;320&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;caption&quot;&gt; &lt;/div&gt;
-&lt;div class=&quot;insertArea--origin subtext&quot;&gt;Source: Angela Roma/Pexels&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;The researchers pointed out that these positive motives to exercise were intrinsic: The women kept exercising because working out itself was enjoyable and gave them personal satisfaction. It was also empowering to feel stronger and more confident as a person. The researchers further suggested that women persist with exercise if participation is intrinsically motivated: Instead of thinking of exercise as a necessary duty, it was important to enjoy it. This was one key to sustaining an exercise program.&lt;/p&gt;
-
-&lt;h2&gt;External pressures: the fit body ideal&lt;/h2&gt;
-&lt;p&gt;The women in this study embraced the fit lifestyle in which exercise was planned on their schedule. While successfully maintaining their fitness programs, the exercisers were not immune to social expectations of the fit, feminine body.&lt;/p&gt;
-&lt;p&gt;Many exercisers initially started to work out because of fear of gaining weight. Although they felt this had become less of a motivation, worrying about ideal looks was still deep in their minds. For example, Elizabeth explained:&lt;/p&gt;
-
-&lt;p&gt;&quot;It’s hard, I think there’s times where I know that I work out because I want to be healthy but then other times it’s hard because I need to work out so that I look good…trying to fight those thoughts is really difficult. And then when I can’t, it leads to a snowball effect of being down about myself in other aspects.&quot;&lt;/p&gt;
-
-
-
-  
-
-
-&lt;p&gt;Some of the women were frustrated with the social expectation that equates fitness only with thinness, not muscle definition. Some had also shifted from &quot;cardio&quot; workouts (for weight loss) to emphasize weight training, particularly as they aged. For example, Sharon, who had turned 50, shared: “You lose muscle with age, and it was important to me to maintain some muscle mass as I age. So it wasn’t about being big and bulky, it was just maintaining strength to be healthy as I continue to age.”&lt;/p&gt;
-
-&lt;div class=&quot;insertArea ck-widget&quot;&gt;
-&lt;div class=&quot;image-article-inline-half&quot;&gt;
-&lt;div class=&quot;insert-inner&quot;&gt;
-&lt;div class=&quot;insert-image&quot;&gt;&lt;img alt=&quot;Pourquoipas/Pexels&quot; class=&quot;image-article_inline_half_caption&quot; height=&quot;480&quot; src=&quot;https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/pourquoipas-exercise-841167_1920.jpg?itok=3tv3XH9d&quot; title=&quot;Pourquoipas/Pexels&quot; width=&quot;320&quot; /&gt;&lt;/div&gt;
-&lt;div class=&quot;caption&quot;&gt; &lt;/div&gt;
-&lt;div class=&quot;insertArea--origin subtext&quot;&gt;Source: Pourquoipas/Pexels&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;It was clear that Sharon was careful with how much muscle she built not to look too &quot;big.&quot; Patricia also revealed: “I have a body type that puts on muscle easily, so I always try to be mindful that I don’t get too bulky, only because I don’t want to look a certain way.” Therefore, the emphasis on strength still took place within the acceptable limits of not looking muscular.&lt;/p&gt;
-
-&lt;p&gt;The researchers pointed out that when exercise participation is driven by the social expectations of &quot;looking good&quot; (external motives), the women struggled with negative feelings about themselves.&lt;/p&gt;
-&lt;p&gt;If we work out only thinking of &quot;external goals&quot; such as expectations to look a certain way (thin and toned), we are likely to quit the program. While the experienced exercisers may have started based on a fear of weight gain, they had to discover different, internal reasons to persist with exercise.&lt;/p&gt;
-
-&lt;h2&gt;Finding joy&lt;/h2&gt;
-&lt;p&gt;Finding joy, self-confidence, and time for oneself empowered these women to continue with their fitness activities and to navigate the negative feelings of social expectations.&lt;/p&gt;
-&lt;p&gt;Exercise does not always have to be high intensity and there are many different exercise forms to choose from. If we can turn our workouts into enjoyable times devoted to our level of physical and mental strength, we also may be able to stick with them long term.&lt;/p&gt;
-
-&lt;p&gt;Let’s enjoy!&lt;/p&gt;
-
-            
-      &lt;hr style=&quot;border: none; border-top: 1px solid #ddd; margin: 24px 0 12px;&quot; /&gt;
-      &lt;p style=&quot;font-size: 0.85em; color: #888;&quot;&gt;
-        &lt;a href=&quot;https://www.psychologytoday.com/us/blog/fit-femininity/202602/do-you-have-difficulty-sustaining-your-exercise-program&quot; target=&quot;_blank&quot;&gt;Read the original article on Psychology Today →&lt;/a&gt;
-      &lt;/p&gt;</description>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <media:thumbnail url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-olly-3855207.jpg?itok=W_cPTcF3" />
-      <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-olly-3855207.jpg?itok=W_cPTcF3" type="image/jpeg" />
     </item>
   </channel>
 </rss>
