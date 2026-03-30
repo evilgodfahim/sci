@@ -10,13 +10,14 @@ import json
 # CONFIGURATION
 # -----------------------------
 FEEDS = [
-"https://www.scientificamerican.com/platform/syndication/rss/",
 "https://www.sciencenews.org/topic/climate/feed",
-"https://evilgodfahim.github.io/pt/feeds/feed.xml",
+
 "https://feeds.feedburner.com/zmescience",
-    "https://feeds.newscientist.com/science-news",
-    "https://www.thethirdpole.net/en/feed/",
+
+  "https://www.thethirdpole.net/en/feed/",
+
     "https://www.carbonbrief.org/rss",
+
     "https://news.mongabay.com/news.xml",
     "https://politepaul.com/fd/kELFFnMAfctc.xml",
     "https://politepaul.com/fd/LmBK70i6qv46.xml",
